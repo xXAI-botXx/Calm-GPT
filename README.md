@@ -8,6 +8,14 @@
 
 
 
+Tags: 
+- chatbot
+- english
+- GPT2
+- anxiety
+
+<br><br>
+
 ### Guide
 
 ...
