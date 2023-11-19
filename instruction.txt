@@ -1,0 +1,4 @@
+D:
+cd D:\Studium\7. Semester\Module\Seminar 2\Mobile\env\Scripts 
+activate.bat
+cd ../../
