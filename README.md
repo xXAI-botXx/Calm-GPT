@@ -1,14 +1,12 @@
-<h1 style="text-align:center">Rest in Story 🐘</h1>
+<img src="logo.jpeg"></img>
 
-<h2 style="text-align:center">RIS-Bot</h2>
+<h1 style="text-align:center">🌊RIS-Bot⛱️</h1>
 
-<h3 style="text-align:center">Your Story to calm 🏖️</h3>
+<h3 style="text-align:center">Rest in Story</h3>
 
 <!--Your interactive story companion for serene moments-->
 <!--Experience pure calmness-->
 <!--The bot you wish was your therapist🏖️-->
-
-> Important disclaimer: This is only a small project and the bot doesn't replace serious help, but it can help you.
 
 
 
@@ -28,8 +26,7 @@ Tags:
 
 ### Description
 
-A GPT2 model is to be extended to a new task via transfer learning. The GPT2 model is to be fine-tuned in such a way that it generates interactive, meditative and calming stories for the user and goes through them with them.<br>
-The communication participant should be positively encouraged and reassured.<br>
+A GPT2 model is to be extended to a new task via transfer learning. The GPT2 model is to be fine-tuned in such a way that it generates interactive, meditative and calming stories for the user.<br>
 The aim is to create a reading experience that promotes positive thoughts.<br>
 The language is English and the model is to be deployed on Discord.<br>
 Interaction data from a user and a storyteller is required for the training data.<br>
@@ -48,7 +45,7 @@ The GPT3 model would actually be used for this, but this is associated with cost
 
 
 
-### Advantages and Disadvantages
+### Advantages
 
 Pros:
 
@@ -57,14 +54,6 @@ Pros:
 - everywhere 
 - 100% private 
 - your unique story
-
-
-
-Cons:
-
-- May not answer well every time
-- Can the bot learn it?
-- Stories may not be creative enough? 
 
 
 
@@ -82,9 +71,9 @@ Cons:
 First message from "User" -> will be given from the system:
 Tell me an interactive story to calm me down. It should be mindful with lots of details and meditative. Breathing exercises and visualizations should also be incorporated into the story.-->
 
-1. The system writes a welcome message and that the user should write down 3 words or "surprise me"/"you decide"/"".
-2. Then the user writes 3 words or "surprise me"/"you decide"/"". Which is the first Input for the GPT-Model
-3. The algorithm uses the 3 words to create a calm story or generates a own story, when no word is given (or the user wants the system to surprise him)
+1. The system writes a welcome message and that the user should write down 1 word which defines the location of the adventureor "surprise me"/"you decide"/"random"/"".
+2. Then the user writes 1 word or "surprise me"/"you decide"/"random"/"". Then the first Input for the GPT-Model will be created and given to the model.
+3. The algorithm uses the 1 word to create a calm story or generates a own story, when no word is given (or the user wants the system to surprise him)
 4. Now the User should have an interactive story to calm down
 
 
