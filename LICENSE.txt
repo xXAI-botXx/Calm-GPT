@@ -1,3 +1,5 @@
+Copyright 2024 - Tobia Ippolito. All rights reserved.
+
 Mozilla Public License Version 2.0
 ==================================
 
@@ -374,9 +376,9 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 
 
 ---------------------------------------------------------
-License for the GPT-2 model and all code associated with the work of the "transformer" module:
+License for the GPT-2 model and all code associated with the work of the "transformers" module:
 
- Copyright 2023 Tobia Ippolito
+Copyright 2018 The Hugging Face team
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
