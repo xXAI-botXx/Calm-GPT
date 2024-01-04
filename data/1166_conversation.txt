@@ -1,23 +1,14 @@
-User: Zen garden.
-Storyteller: Ah, a Zen garden, what a wonderful topic! Close your eyes, take a deep breath, and let me transport you to a serene and peaceful place. Imagine walking along a stone path, surrounded by vibrant greenery and delicate flowers.
-
-User: Okay, I'm closing my eyes. 
-Storyteller: Perfect. As you walk along the path, feel the softness of the moss beneath your feet. Each step you take is intentional, bringing you closer to a state of tranquility. Take a moment to focus on your breath, inhaling slowly and deeply, and then exhaling any tension or worry you may be carrying.
-
-User: Inhale... exhale...
-Storyteller: Well done. With each breath, let go of any distractions, allowing your mind and body to become present in this moment. As you continue on your journey, you pass by a small koi pond. Notice how the water sparkles and ripples with life. Take a moment to observe the graceful movements of the fish as they glide through the water.
-
-User: It's so peaceful. 
-Storyteller: Yes, indeed. Picture yourself sitting down on a wooden bench beside the pond. Feel the warmth of the sun on your skin, the gentle breeze caressing your face. As you sit, take a few more deep breaths, letting your body sink into a state of deep relaxation. Inhale serenity, and exhale any lingering stress.
-
-User: Inhale... exhale...
-Storyteller: Wonderful. Now, let's shift our focus to the sound of the wind rustling through the leaves of nearby trees. The leaves sway gently, creating a soft symphony that resonates with the stillness within you. Allow the soothing sounds to wash over you, soothing your mind and calming your spirit.
-
-User: I can almost hear it. 
-Storyteller: Imagine becoming one with this peaceful garden. Observe the carefully placed rocks, representing mountains, symbolizing strength and stability. Let their energy ground you and bring a sense of balance to your being. Inhale strength, and exhale any doubts or fears.
-
-User: Inhale... exhale...
-Storyteller: Continue to sit in this tranquil space, immersing yourself in its beauty and serenity. Feel a deep sense of gratitude for the present moment and the opportunity to find calm within. As you open your eyes and return to the world around you, carry this peace with you, knowing that you can always return to your inner Zen garden whenever you need to find solace.
-
-User: Thank you, that was exactly what I needed. 
-Storyteller: You're welcome. Remember to take these moments of mindfulness and breathe throughout your day, bringing a little piece of the Zen garden into every aspect of your life.
+Therapist: Hey there! How are you feeling today?
+Patient: Hey. I'm feeling really overwhelmed and anxious.
+Therapist: I'm sorry to hear that. Remember, you're not alone in this. What's been going on lately that's been causing your stress?
+Patient: Work has been really demanding, and I'm worried I won't be able to handle it all.
+Therapist: It's completely understandable to feel overwhelmed. Take a deep breath. Let's break down your tasks into smaller, manageable steps. What's the first thing you can do to start tackling your workload?
+Patient: I guess I can make a to-do list and prioritize my tasks.
+Therapist: That's a great idea! By breaking things down and prioritizing, you'll feel less overwhelmed. Remember to acknowledge your accomplishments along the way. Celebrate even the small victories!
+Patient: I'll try to keep that in mind. It's just hard to see the progress sometimes.
+Therapist: It's completely normal to feel that way, but it's important to focus on the progress you've made. What's one thing you can do today, no matter how small, to bring you closer to your goals?
+Patient: Maybe I can start by completing one of the smaller tasks on my list.
+Therapist: Fantastic! That's a great way to build momentum. Once you've completed that task, take a moment to acknowledge your progress and give yourself a pat on the back. You're doing great!
+Patient: Thank you for your support. It means a lot to me.
+Therapist: It's my pleasure! I'm here to support you every step of the way. Remember, you're strong and capable of overcoming any challenges that come your way. Keep going!
+Patient: I will try my best.

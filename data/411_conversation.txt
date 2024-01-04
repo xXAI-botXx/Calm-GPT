@@ -1,41 +1,27 @@
-User: Travel around the world.
+Person A: Hi, I've been feeling really anxious lately, and I just found out I have Substance/Medication-Induced Anxiety Disorder.
 
-Storyteller: Ah, I see you're longing for adventure and exploration! Close your eyes for a moment and take a deep breath. As you exhale, allow your mind to open up to the world of possibilities that awaits you. Imagine yourself standing at the edge of a vast, sparkling ocean. Can you feel the gentle breeze against your skin?
+Person B: Oh no, I'm so sorry to hear that. Is there anything I can do to help?
 
-User: Yes, I can feel it.
+Person A: I appreciate that. Honestly, I'm feeling overwhelmed and scared. I don't know how to deal with this.
 
-Storyteller: Good. Let's begin our journey. Picture yourself stepping onto a magical boat, crafted from the finest wood. As you find your comfortable spot on the deck, notice the vibrant colors of the sails. Can you see them?
+Person B: It's understandable to feel that way, but remember you're not alone in this. Have you talked to a professional about your diagnosis?
 
-User: Yes, I see beautiful blue and green sails.
+Person A: Yes, I have. They prescribed medication to help manage my anxiety symptoms.
 
-Storyteller: Excellent. Our boat begins to sail, gracefully gliding through the waves. Imagine the soothing sound of the water flowing beneath you and the distant call of seagulls flying above. Can you hear them?
+Person B: That's a positive step! Medication can be really beneficial. Have you started taking it yet?
 
-User: Yes, it's so serene.
+Person A: Yes, I just started. But I'm worried about the side effects and if it will really make a difference.
 
-Storyteller: We're setting sail towards a majestic island adorned with lush green forests and cascading waterfalls. As we anchor near the shore, step onto the soft sand and let it tickle your toes. Can you feel it?
+Person B: It's normal to have concerns, but trust me, sometimes it just takes a little time for the medication to kick in and make a noticeable impact. Try to give it a chance.
 
-User: Yes, it's like a gentle massage.
+Person A: I'll try my best. But what if it doesn't work or if the side effects are too severe?
 
-Storyteller: Walk along the winding path, surrounded by trees swaying in harmony with the wind. Notice the vibrant flowers blooming along the way, their sweet fragrance engulfing your senses. Can you smell them?
+Person B: Understandably, you might be worried about that. Remember, everyone reacts differently. It's important to communicate any concerns or side effects with your healthcare provider. They can help adjust your medication or find alternative options.
 
-User: Yes, it's like walking through a garden.
+Person A: I guess you're right. I shouldn't jump to conclusions before giving it a fair chance. It's scary though.
 
-Storyteller: Ahead, you discover a hidden cave, illuminated by a soft, golden light. Step inside and feel the ancient energy coursing through your veins. Take a moment to appreciate the beauty and tranquility within. Can you sense it?
+Person B: Absolutely, change can be scary. But your well-being is worth it, and it's amazing that you're seeking help. Try to stay positive and know that I'm here for you every step of the way.
 
-User: Yes, I feel a sense of peace and warmth.
+Person A: Thank you so much for being supportive and understanding. It means a lot to me.
 
-Storyteller: Let's continue our exploration. Leave the cave and find yourself at the edge of a magnificent peak, overlooking a breathtaking mountain range. Witness the sun setting in a blaze of colors, painting the sky with oranges, pinks, and purples. Can you see it?
-
-User: Yes, it's a truly mesmerizing sight.
-
-Storyteller: As the darkness settles in, a canopy of stars begins to twinkle above. Find a comfortable spot on a soft blanket and lie down, gazing up at the vastness of the universe. Can you feel the immensity and serenity of it all?
-
-User: Yes, it's overwhelming and yet calming.
-
-Storyteller: It's time to return to our boat, feeling grateful for the incredible journey we have taken. As we sail back towards home, allow a sense of deep contentment to wash over you. Can you feel that inner peace?
-
-User: Yes, I feel a profound sense of peace and gratitude.
-
-Storyteller: Take a few moments to bask in this tranquility, and know that you can always revisit this journey in your mind whenever you need a moment of calm. When you're ready, gently open your eyes and carry this sense of peace with you throughout your day.
-
-User: Thank you for guiding me on this beautiful journey. I feel refreshed and relaxed.
+Person B: Of course! We all have our battles in life, and supporting each other is what friends are for. Remember, you're strong, and I have faith that you can overcome this challenge.

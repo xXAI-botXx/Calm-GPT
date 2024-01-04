@@ -1,30 +1,14 @@
-Person A: Castle.
-Person B: Ah, a castle. Let's embark on a journey, shall we? Picture yourself standing at the foot of a magnificent castle. The sun gently kisses its stone walls, casting a warm golden glow. Can you see it?
-
-Person A: Yes, I can see it. It's incredibly grand and majestic.
-
-Person B: As you step closer, feel the cool breeze on your face and hear the gentle rustle of leaves in the nearby trees. Imagine yourself walking through the castle gates, and let your senses awaken to the sights, sounds, and even the scents around you.
-
-Person A: The gates slowly creak open, and I step inside. The courtyard is adorned with colorful flowers, their fragrance filling the air. I feel a sense of peace and tranquility washing over me.
-
-Person B: Take a moment to listen to the birdsong that fills the courtyard. Can you hear their joyful melodies? Let their sweet tunes carry away any lingering worries or stress.
-
-Person A: I can hear them, their melodies are so calming. It feels as if time has slowed down, and I am completely present in this moment.
-
-Person B: Now, let's explore the castle itself. As you enter through the grand doorway, notice the intricate details of the architecture. The walls tell stories of generations past, and the sunbeams that filter through the stained glass windows dance across the floors.
-
-Person A: Every step I take echoes through the hallway, creating a soothing rhythm. The light falls on a grand staircase, and I feel drawn to climb it.
-
-Person B: As you ascend the staircase, imagine each step bringing you closer to a deeper sense of peace and relaxation. With every breath you take, feel the tension leaving your body, replaced by a profound serenity.
-
-Person A: I reach the top of the staircase, and a remarkable view unfolds before me. Through the arched windows, I see rolling hills, lush greenery, and a gentle river meandering in the distance. The view is breathtaking.
-
-Person B: Allow yourself to be engulfed by this stunning vista. Take a moment to appreciate the beauty of nature and the sense of tranquility it provides. As you gaze upon the landscape, breathe in deeply, letting the fresh air fill your lungs, and exhale any remaining tension or worries.
-
-Person A: The calmness washes over me, and I feel a renewed sense of peace and contentment. The castle has offered me a haven of serenity, a sanctuary from the busyness of life.
-
-Person B: As we bring our journey to a close, remember that the calming presence of the castle is always within you. Whenever you need a moment of tranquility, simply close your eyes, and you can transport yourself back to this peaceful haven.
-
-Person A: Thank you for guiding me on this wonderful journey. I feel lighter, relaxed, and full of positive thoughts. I will always carry the castle's calming energy with me.
-
-Person B: You're very welcome. Remember, the castle is always here for you, serving as a reminder of the inner peace and tranquility that resides within. Take care, and may you find tranquility wherever your path leads you.
+Person A: Hey 
+Person B: Hey, how are you? 
+Person A: I'm feeling really anxious and scared, I don't know what to do. 
+Person B: Take a deep breath. Remember, you are safe right now. Let's focus on something positive. 
+Person A: I don't know what's going to happen next, it's terrifying. 
+Person B: I understand that uncertainty can be scary, but let's try shifting our focus to things we're grateful for. What are you grateful for in your life right now? 
+Person A: I guess I'm grateful for my family and friends who support me. 
+Person B: That's great! Having a support system is so valuable. What else are you grateful for? 
+Person A: I'm grateful for my health and having a roof over my head. 
+Person B: Those are important things to be thankful for. Remember, there are always things to appreciate, even in difficult times. 
+Person A: Yes, you're right. It helps to think about the positive aspects. 
+Person B: Absolutely. Take a moment to breathe deeply and refocus your energy on the positive things around you. You've got this. 
+Person A: Thank you, your words really help. 
+Person B: You're welcome! I'm always here to support you.

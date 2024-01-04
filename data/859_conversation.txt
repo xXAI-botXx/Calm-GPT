@@ -1,31 +1,31 @@
-User: Treehouse.
+Patient: Good morning, Doctor. 
 
-Storyteller: Ah, treehouses. What a wonderful world they create. Picture yourself in a lush green forest, surrounded by tall majestic trees. The soft whisper of the wind rustles through the leaves, producing a peaceful melody. Can you feel the gentle breeze against your skin?
+Psychologist: Good morning. How can I help you today? 
 
-User: Yes, I can feel it.
+Patient: I've been feeling really down lately. I just don't have any motivation or energy to do anything. 
 
-Storyteller: Very good. As you wander through this enchanting forest, you stumble upon a magnificent oak tree. Its branches stretch out like welcoming arms, inviting you to explore its hidden secrets. You notice a ladder leading up to a cozy treehouse nestled among the branches. Can you see the ladder reaching towards the sky?
+Psychologist: I'm sorry to hear that. When did you start feeling this way? 
 
-User: Yes, I can see it.
+Patient: I would say it started about a month ago. I've been having trouble sleeping as well. 
 
-Storyteller: With each step you take, feel the sturdy rungs of the ladder beneath your feet, supporting you as you ascend. Take a moment to appreciate the sensation of climbing, the slight wobble of the ladder, and the sound of each step as it creaks beneath your weight. Can you hear the ladder creaking?
+Psychologist: Has anything significant happened in your life before these feelings started? 
 
-User: Yes, I can hear it.
+Patient: Well, I lost my job a few months ago, and I've been having difficulty finding a new one. That's been causing a lot of stress for me. 
 
-Storyteller: As you reach the top, you step onto a small wooden platform, surrounded by a protective railing. The aroma of fresh pine fills the air, evoking a sense of calm. Take a deep breath and inhale the scent of the forest. Can you smell the pine?
+Psychologist: I see. Losing a job can definitely be a stressful experience. How have you been coping with this stress? 
 
-User: Yes, I can smell it.
+Patient: I've been isolating myself from friends and family, and I've stopped doing things I used to enjoy. I just feel like I don't have any purpose anymore. 
 
-Storyteller: Now, imagine looking out from the treehouse platform. You see a breathtaking view of the entire forest. The canopy seems to stretch on infinitely, embracing the beauty of nature. Take a moment to absorb this serene sight. Can you see the expanse of the forest?
+Psychologist: It's important to have a support system during difficult times. Is there anyone you can reach out to for support? 
 
-User: Yes, I can see it.
+Patient: I guess I could talk to my close friend. She's always been there for me. 
 
-Storyteller: As you soak in the view, you notice a comfortable hammock swaying gently in the breeze. Walk over to the hammock, feeling the soft grass beneath your feet. Lie down in the hammock and let it cradle you. Can you feel the gentle sway of the hammock?
+Psychologist: That's a good start. It's also important to take care of your physical health. Have you been eating well and exercising regularly? 
 
-User: Yes, I can feel it.
+Patient: No, I haven't really had the motivation to take care of myself in that way either. 
 
-Storyteller: Close your eyes and imagine the gentle rustling of leaves overhead, the soothing sound of birdsong, and the warmth of the sunlight filtering through the branches. Allow yourself to fully relax in this peaceful moment. Can you hear the birdsong?
+Psychologist: Taking care of your physical health can have a positive impact on your mental health as well. I encourage you to try incorporating some healthy habits into your routine. 
 
-User: Yes, I can hear it.
+Patient: I'll try my best. Thank you, Doctor. 
 
-Storyteller: Stay here, in this tranquil treehouse, for as long as you like. Let your worries fade away, replaced by a sense of tranquility and serenity. Remember that you can always return to this treehouse in your mind whenever you need a peaceful escape.
+Psychologist: You're welcome. Remember, you're not alone in this. We can work together to help you feel better.

@@ -1,20 +1,31 @@
-User: Stone age.
-Storyteller: Ah, the Stone Age. A time filled with simplicity, harmony, and a deep connection with nature. Take a moment to close your eyes and imagine yourself transported back to that time. Breathe in slowly, allowing your body to relax. Breathe out, letting go of any tension or stress. 
+Patient: Good morning. I hope I'm not too early for our session.
 
-User: In the Stone Age, what kind of environment would I find myself in?
-Storyteller: Picture yourself standing in a lush valley surrounded by tall, mighty mountains. As the sun rises, its gentle rays bathe the land in warmth and light. You can see towering ancient trees, their leaves rustling in the soft breeze. Breathe in the fresh, crisp air filled with the fragrance of wildflowers. 
+Psychologist: No, you're right on time. Good morning. How are you feeling today?
 
-User: What are the sounds I might hear in this peaceful world?
-Storyteller: Listen closely as the gentle lullaby of a nearby river soothes your senses. Birds sing their cheerful melodies while small animals scurry about, creating a symphony of delicate whispers. The rhythmic beat of drums echo from a distance, filling the air with a calming energy. Let your breath match the rhythm of the drums in and out, finding your own peaceful harmony. 
+Patient: I've been feeling a lot of anxiety lately. It's been hard to calm myself down.
 
-User: Are there any remarkable discoveries to be made in this ancient time?
-Storyteller: As you explore this tranquil Stone Age world, you stumble upon a hidden cave adorned with mysterious paintings. These vibrant artworks tell tales of unity, community, and the profound connection between humans and nature. Take a deep breath and allow yourself to feel connected to the energy of the cave, as if it's breathing alongside you. 
+Psychologist: I understand. Anxiety can be quite overwhelming. Have you noticed anything triggering your anxiety recently?
 
-User: How did people communicate in the Stone Age?
-Storyteller: People of the Stone Age communicated not just through words but also through gestures, facial expressions, and even through the rhythms of their heartbeats. They had an innate ability to connect on a deeper level, recognizing that true understanding comes from the heart. Take a moment now to feel your own heartbeat, and silently send warm thoughts and love to the world around you. 
+Patient: Well, I've been under a lot of stress at work and there have been some changes happening in my personal life too. I think these factors are contributing to my anxiety.
 
-User: What were some everyday activities in the Stone Age?
-Storyteller: In this simpler time, people spent their days gathering food, starting fires, and creating tools using rocks and sticks. They worked together in harmony, supporting one another, and celebrating their shared triumphs along the way. Take a deep breath and visualize yourself engaging in these serene activities, feeling a sense of purpose and unity with your surroundings. 
+Psychologist: It's understandable that these changes and stressors are affecting you. How have you been coping with these feelings of anxiety?
 
-User: How can I bring the calmness of the Stone Age into my own life?
-Storyteller: Let the tranquility of the Stone Age guide you in finding moments of stillness and connection in your own life. Practice deep breathing as you envision yourself sitting in that tranquil valley once more, feeling the peace and harmony that exist within. Breathe in gratitude for this beautiful moment, and breathe out any worries or stress. Carry this serenity with you, knowing that you have the power to bring calmness into your life at any time.
+Patient: I've been trying relaxation techniques like deep breathing and meditation, but it doesn't seem to be helping as much as I would like.
+
+Psychologist: It's great that you're trying different techniques to manage your anxiety. Sometimes it can take time to find the ones that work best for you. Have you considered seeking additional support or counseling?
+
+Patient: I've thought about it, but I'm not sure if it would really make a difference. I'm afraid of opening up about my feelings to someone I don't know.
+
+Psychologist: I understand your concerns, but therapy can provide a safe and non-judgmental space for you to explore your thoughts and emotions. Building a trusting relationship with a therapist can help you feel more comfortable in discussing your concerns.
+
+Patient: I guess you're right. I'm just afraid of being vulnerable and not knowing how to express myself properly.
+
+Psychologist: It's common to feel that way, but remember that as a therapist, I'm here to support you and guide you through this process. We'll take it at your own pace and work together on finding effective strategies to manage your anxiety.
+
+Patient: Thank you for understanding and offering your support. I'll give therapy a try and see if it can make a difference in managing my anxiety.
+
+Psychologist: That's great to hear. It takes courage to take the first step towards seeking help. Remember, you're not alone in this journey. I'm here to support you every step of the way.
+
+Patient: I appreciate that. Thank you for today's session. I'm looking forward to our next appointment.
+
+Psychologist: You're welcome. I'm glad we could have this conversation. Take care and I'll see you next week.

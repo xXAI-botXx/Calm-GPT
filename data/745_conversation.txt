@@ -1,26 +1,23 @@
-User: Castle.
-Storyteller: Ah, a castle. What a magnificent sight it must be. Picture yourself standing at the foot of a grand castle, surrounded by lush greenery and the sweet scent of blooming flowers. Take a deep breath and feel the gentle breeze on your face. Can you feel it?
+Person A: I can't breathe, I feel like I'm having a panic attack. I don't know what to do!
 
-User: Yes, I can feel the breeze. 
-Storyteller: Wonderful. As you approach the castle, notice how each step feels. The crunch of gravel beneath your feet leads you towards the entrance. Are you there?
+Person B: Take deep breaths, just focus on inhaling and exhaling slowly. You're going to be okay, I'm here with you.
 
-User: Yes, I've reached the entrance.
-Storyteller: Marvel at the intricate details of the castle's architecture. The warm sunlight highlights every curve and design. Run your fingers along the smooth stone walls and take a moment to appreciate the craftsmanship. How does it feel?
+Person A: But I feel like I'm losing control, my heart is racing and I'm shaking.
 
-User: It feels cool and sturdy. 
-Storyteller: Now, let's enter the castle. As you step inside, you find yourself in a vast, ornate hall. Look up at the high ceiling adorned with breathtaking murals. Notice the vibrant colors and the stories they depict. Can you imagine them?
+Person B: It's okay, panic attacks can be really overwhelming, but they can't harm you. Let's try a grounding exercise together. Look around and name five things you can see.
 
-User: Yes, they seem to come alive in my mind.
-Storyteller: Let your eyes wander around the hall. Spot a grand staircase to your left, its steps worn over time. Feel the cool, polished wood under your hand as you begin to climb. Take each step mindfully, feeling the weight of your body shifting with each ascent. Are you climbing?
+Person A: Okay... I see a lamp, a bookshelf, a plant, my phone, and a picture frame.
 
-User: Yes, I'm climbing the staircase. 
-Storyteller: As you reach the top of the staircase, you find yourself in a cozy library with towering bookshelves. Run your fingers along the spines of the old books, feeling the smooth leather and crisp pages. Take a moment to select a book that captures your attention. What book do you choose?
+Person B: Good, now touch four things around you and describe how they feel.
 
-User: I choose a book about ancient myths and legends.
-Storyteller: Ah, an intriguing choice. Find a cozy reading nook by the window and settle in. As you open the book, immerse yourself in the stories of gods and heroes. Imagine the adventures they embarked upon, the challenges they faced, and the wisdom they gained. Can you envision it?
+Person A: I'm touching the table which feels smooth, the cushion which is soft, the keys on my keyboard which feel cold, and my own skin which feels warm.
 
-User: Yes, I'm lost in the mythical tales.
-Storyteller: Allow the calming energy of the castle to envelop your senses. Feel yourself becoming more relaxed and at ease as you absorb the knowledge and tranquility within these pages. Take a deep breath in and let go of any tension. How do you feel now?
+Person B: Great job! Now listen for three sounds, and describe what you hear.
 
-User: I feel calm and at peace. Thank you, storyteller. 
-Storyteller: You're most welcome. Remember, anytime you need a place of solace and serenity, you can return to this castle in your mind. Take this tranquil experience with you as you go about your day, carrying the calmness within you.
+Person A: I can hear birds chirping outside, the hum of the refrigerator, and the sound of my own breathing.
+
+Person B: Excellent! Now take a deep breath and let it out slowly. Keep focusing on your breathing and the sensations around you. Remember, you're safe and these sensations will pass.
+
+Person A: Thank you for helping me calm down. I feel much better now.
+
+Person B: I'm glad I could help. If you ever feel overwhelmed again, remember to focus on your breathing and use these grounding exercises. I'm here for you, always.

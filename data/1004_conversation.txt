@@ -1,34 +1,25 @@
-User: Hot-air-balloon.
-Storyteller: Ah, the majestic hot-air-balloon. It hovers gracefully in the sky, like a colorful hummingbird, floating on a gentle breeze. Imagine yourself standing in an open field, surrounded by nature's beauty. Take a deep breath, inhale the fresh air, and imagine this peaceful scene with me.
+Patient: Good morning, Dr. Smith. I've been feeling really down lately, and I can't seem to shake this feeling of sadness.
 
-User: I'm taking a deep breath... inhaling the freshness. 
+Psychologist: Good morning, John. I'm here to listen. Can you tell me more about what's been going on?
 
-Storyteller: Perfect. As you stand in this field, you notice a giant hot-air-balloon being inflated just a few steps away. It's vibrant and cheerful, adorned with colorful patterns and intricate designs. Picture its radiant beauty before you.
+Patient: Well, it started a few months ago. I lost my job and it's been really tough finding a new one. I feel like such a failure.
 
-User: I see it, its colors catch the sunlight. It's mesmerizing. 
+Psychologist: Losing a job can definitely take a toll on our self-esteem. It's important to remember that this doesn't define your worth as a person. Have you been doing anything to cope with the stress?
 
-Storyteller: Approach the hot-air-balloon, feeling the soft grass beneath your feet with each step. As you get closer, you notice the gentle heat radiating from the flames fueling the balloon. It's as if the warmth of the fire embraces you, creating a sense of comfort and tranquility. Take a moment to feel that warmth, breathe in, and embrace this soothing sensation.
+Patient: I've been trying to stay active and spend time with friends, but it's hard to shake off this feeling of hopelessness. I just can't see a way out of this situation.
 
-User: I imagine myself getting closer, feeling the heat, and taking a deep breath, filling my lungs.
+Psychologist: It's completely understandable to feel overwhelmed in this situation. It's important to give yourself some time and space to process these feelings. Have you considered seeking support from a career counselor or joining a job-seeking support group?
 
-Storyteller: Wonderful. Now, as you step into the basket of the hot-air-balloon, imagine the sense of security and peace that surrounds you. Allow yourself to be fully present and aware of your surroundings. Notice the gentle swaying motion as the balloon begins to ascend. Picture the entire landscape beneath you, slowly becoming smaller and more distant.
+Patient: I haven't really thought about that. I guess I've been too focused on my own failures to think about seeking help. But maybe you're right, it might be beneficial to get some guidance and support.
 
-User: I'm in the basket, feeling its stability and calmness. I see the ground getting further away as we ascend.
+Psychologist: It's great to hear that you're open to the idea. It can be helpful to have someone to guide you through the job search process and offer some valuable insights. Remember, seeking help is a sign of strength, not weakness.
 
-Storyteller: As we gently rise higher, the world below becomes a magnificent tapestry of green fields, sparkling lakes, and distant mountains. The air feels light and refreshing, invigorating both your body and mind. Close your eyes, take a deep breath, and let the coolness fill you up, rejuvenating your spirit.
+Patient: Thank you, Dr. Smith. I appreciate your encouragement. I'll definitely look into finding a career counselor or support group.
 
-User: I'm closing my eyes, feeling the breeze, and taking another deep breath. It's refreshing, calming.
+Psychologist: That's a positive step forward, John. Remember, you're not alone in this journey. I'm here to support you, and there are other professionals who can assist you as well. We can work together to help you regain your confidence and find new opportunities.
 
-Storyteller: Now, open your eyes and marvel at the expanse of the sky above you. The colors are a masterpiece, starting with the warm hues of the rising sun blending into the deep blues of the vast heavens. The clouds trail lazily, as if they were guiding your journey. Take a moment to appreciate the vastness and beauty that surrounds you.
+Patient: I'm grateful to have your support, Dr. Smith. It gives me hope that things can get better. 
 
-User: I'm looking above, seeing the beautiful blend of colors. I'm in awe of the expanse and serenity of the sky.
+Psychologist: Absolutely, John. Keep in mind that progress takes time, but with your determination and the right support, I believe you can overcome this challenging period in your life. Don't hesitate to reach out whenever you need someone to talk to.
 
-Storyteller: Take a few minutes to allow your mind to wander, to explore the thoughts and emotions that arise. Observe them like clouds drifting across the sky, without judgment or attachment. Breathe deeply, embracing the stillness and peace that exist within you.
-
-User: I'm taking this opportunity to let my thoughts come and go, like clouds passing by. Breathing deeply, feeling a sense of calmness and peace within.
-
-Storyteller: As we return to the ground, you may notice a newfound sense of tranquility and contentment within yourself. Cherish this feeling, knowing that you can always reconnect with it through the power of your breath. Take one last deep breath, thanking the hot-air-balloon for this journey and bringing you back safely.
-
-User: I'm taking a deep breath, expressing gratitude for this serene journey. Thank you, hot-air-balloon, for this beautiful experience.
-
-Storyteller: You're welcome, dear friend. As you step out of the hot-air-balloon, carry this sense of calmness and peace with you throughout your day. Remember to take time for yourself, to breathe deeply and embrace the beauty that surrounds you.
+Patient: Thank you, Dr. Smith. I will. I'm ready to take the first steps towards a brighter future.

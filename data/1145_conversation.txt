@@ -1,31 +1,21 @@
-User: Safari.
+Person A: Hey
+Person B: Hey, how are you?
+Person A: I'm feeling really down today.
+Person B: I'm sorry to hear that. Can you tell me what's been going on?
 
-Storyteller: Ah, a safari! What a beautiful adventure lie ahead! Picture yourself surrounded by the vast African savannah, rich with golden grass and tall Acacia trees. The air is warm and inviting, carrying with it the gentle rustling of leaves and the distant melodies of chirping birds. Take a deep breath in and let your worries melt away. 
+Person A: I had an argument with my best friend and now we're not speaking to each other.
+Person B: That sounds tough. How are you coping with the situation?
+Person A: I'm not coping well at all. I miss our friendship and it's really bothering me.
 
-User: The sun shines brightly above, casting a warm glow on everything around. 
+Person B: It's completely normal to feel upset. Have you tried talking to your friend to resolve the issue?
+Person A: I haven't reached out yet. I'm afraid they won't listen or that it will make things worse.
+Person B: It's understandable that you may have those fears. Remember, communication is key. It's important to express how you feel.
 
-Storyteller: That's right! The radiant sun above feels like a comforting embrace, filling your heart with a sense of peace and tranquility. Walking along a dusty path, you notice the footprints of various animals, left behind in the soft earth. The safari guides lead you deeper into the heart of the wilderness, where the sights and sounds of wildlife come alive.
+Person A: You're right, it's just hard for me to open up sometimes.
+Person B: Opening up can be difficult, but it can also be very healing. It allows for understanding and growth in relationships.
 
-User: I see a graceful herd of gazelles, moving gracefully across the plains. Their slender bodies leap and bound, their coats shimmering in the sunlight.
+Person A: I'm considering writing a letter to my friend, expressing my feelings and apologizing for my part in the argument.
+Person B: That sounds like a thoughtful idea. Writing can provide a safe space to gather your thoughts and emotions. It could be a good first step towards resolving the issue.
 
-Storyteller: Yes, such magnificent creatures they are! Imagine yourself standing still, observing the elegance of their movements and the pure freedom they represent. Feel a deep connection with nature, as you witness the intricate balance of life unfolding around you.
-
-User: A herd of elephants approaches, their massive bodies slowly meandering towards a nearby watering hole. Their trunks reach out to drink, creating a symphony of splashes and ripples.
-
-Storyteller: With each sip they take, your worries and burdens are washed away. Feel the coolness of the water as it flows through your system, bringing a refreshed and tranquil state of mind. The gentle rumbling of the elephants' communication reassures you that you are a part of this serene ecosystem.
-
-User: A pride of lions rests under the shade of mighty baobab trees. Their majestic presence exudes strength and confidence.
-
-Storyteller: While the lions sleep, feel a sense of security and calmness envelop you. The peaceful coexistence between predator and prey reminds us that harmony can be found even in the wildest of places. As the storyteller, I want you to take this opportunity to truly relax and let go of any tension in your body and mind.
-
-User: The evening gradually descends, spreading hues of golden and orange across the horizon. The safari guides light a warm campfire, filling the air with the comforting fragrance of burning wood.
-
-Storyteller: As darkness settles, you can still hear the distant calls of nocturnal creatures, serenading the night. The crackling fire's glow flickers gently, offering a sense of warmth and safety. Allow yourself to rest your gaze on the dancing flames, feeling the comforting sensation deep within.
-
-User: The cool breeze whispers through the tall grass, as stars gradually emerge overhead, forming a celestial blanket.
-
-Storyteller: As you gaze at the night sky, let your thoughts drift away, disappearing into the expanse of the universe. Each sparkling star represents a moment of peace, guiding you towards an inner stillness. Breathe deeply, savoring the peace that resides within you.
-
-User: Thank you for this calming safari journey. I feel lighter and more at peace.
-
-Storyteller: You are most welcome! I'm glad I could take you on this mindful adventure. Remember, in moments of stress or anxiety, you can always revisit this safari in your mind, finding solace in its serene beauty. Rest well, my friend, knowing that nature's tranquility is always within reach.
+Person A: I appreciate your advice. I'll give it a try and see if it helps. Thank you for being there for me.
+Person B: You're welcome. Remember, I'm here to support you. Let me know how it goes, and I'm always here to listen.

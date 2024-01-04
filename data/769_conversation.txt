@@ -1,35 +1,3 @@
-User: Other planet. 
+Patient: Hi, I'm feeling really overwhelmed and anxious lately. I don't know what to do.
 
-Storyteller: Ah, the idea of venturing to another planet is truly captivating. Let's embark on a calming journey together, imagining a world far beyond our own. Close your eyes and take a deep breath to set the mood. Now, picture yourself standing on the edge of a lush green field, preparing for a gentle ascent to the outer reaches of the universe.
-
-User: Okay, I'm ready.
-
-Storyteller: As you begin your ascent, you can feel the gentle warmth of the sun on your face and the soft grass beneath your feet. Surrounding you are vibrant flowers of various colors, swaying gently in a light breeze. Take a moment to feel the soft petals between your fingertips.
-
-User: I can feel it. It's so soothing.
-
-Storyteller: Now, as we continue our journey, imagine floating up into the sky, weightless and serene. As you ascend, the colors around you change, blending into breathtaking hues of blues, purples, and pinks. Allow yourself to become fully immersed in this serene atmosphere, feeling a sense of tranquility wash over you.
-
-User: I can almost feel the weightlessness. It's calming.
-
-Storyteller: Let us now journey further, beyond our own Moon, towards the planet of our choice. Visualize a celestial body in the distance, its surface filled with intriguing shapes and unknown landscapes. Notice the details of this otherworldly planet: vibrant swirls of colors, towering mountains, and calm, reflective lakes.
-
-User: I can see it, so vividly. It's mesmerizing.
-
-Storyteller: As we approach the surface, imagine descending gently onto the planet, your feet barely touching the ground. The air here is crisp and invigorating, carrying faint scents of wildflowers. Take a deep breath and embrace the unfamiliar yet soothing aroma.
-
-User: *deep breath* It's refreshing, like a breath of new beginnings.
-
-Storyteller: Now let's explore this enchanting planet further, noticing the unique flora and fauna. Can you feel the soft texture of the moss beneath your hand, or hear the gentle rustling of leaves as a light breeze passes by? Take a moment to truly sense and appreciate your surroundings.
-
-User: I can almost feel the moss and hear the leaves. It's as if I'm really there.
-
-Storyteller: Find a calm spot amidst the breathtaking scenery and take a seat. Allow yourself to be fully present in this moment of tranquility. Feel a sense of gratitude for the opportunity to experience the wonders of this otherworldly planet. Take a moment to reflect on the beauty that exists both within and around you.
-
-User: I'm truly grateful for this tranquil experience. Thank you.
-
-Storyteller: You're most welcome. Now, as our journey comes to a close, let the warmth of the sun kiss your skin one last time. Picture yourself once again floating through the cosmos, back towards Earth, carrying with you a peaceful and centered state of mind. When you open your eyes, may you hold onto the serenity you discovered in this imaginary adventure.
-
-User: I feel so calm and at peace. Thank you for guiding me on this beautiful journey.
-
-Storyteller: It was my pleasure to take you there. Remember, whenever you need a moment of calm, you can embark on this inner journey to the other planet. Safe travels, my friend.
+Psychologist: Thank you for sharing that. Can you tell me more about what's been going on?

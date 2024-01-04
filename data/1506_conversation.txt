@@ -1,35 +1,18 @@
-Person A: Witch cottage.
-
-Person B: Ah, the Witch Cottage. A place of mystery and wonder. Close your eyes, take a deep breath, and imagine yourself walking through a lush forest, the sunlight filtering through the leaves above, creating a warm and gentle glow. Can you see it?
-
-Person A: Yes, I can imagine it.
-
-Person B: Good. As you continue along the path, you notice the sound of a babbling brook in the distance. The sound is so soothing, and you follow it, letting it guide you deeper into the forest. Can you hear it?
-
-Person A: Yes, I can hear it.
-
-Person B: Wonderful. As you draw closer to the brook, you come across a small wooden bridge, adorned with delicate flowers and vines. You step onto the bridge and feel the solid wood beneath your feet, connecting you to the Earth. Can you feel it?
-
-Person A: Yes, I can feel it.
-
-Person B: Excellent. Now, as you cross the bridge, you spot the Witch Cottage nestled among the trees. It has a thatched roof and the walls are covered in ivy and wildflowers. Smoke drifts lazily from the chimney, carrying with it the scent of herbs and spices. Can you smell it?
-
-Person A: Yes, I can smell it.
-
-Person B: How wonderful. As you approach the cottage, you notice a small garden filled with all sorts of magical plants and herbs. Each one seems to emit a gentle, calming energy. Can you feel it?
-
-Person A: Yes, I can feel it.
-
-Person B: Marvelous. Now, go ahead and open the door to the cottage. Inside, you find a cozy space filled with soft pillows, warm blankets, and shelves lined with books filled with knowledge and wisdom. As you settle down, you feel a sense of tranquility wash over you, as if the very essence of the cottage is filling you with peace. Can you feel it?
-
-Person A: Yes, I can feel it.
-
-Person B: That's wonderful. Now, as you relax, let your mind wander and imagine all the incredible adventures that await you in this enchanted cottage. Will you brew potions, study ancient spells, or perhaps explore the surrounding forest? The choice is yours.
-
-Person A: I think I'll explore the surrounding forest.
-
-Person B: Perfect. As you venture into the forest, you come across a shimmering waterfall, its crystal-clear waters cascading down in a mesmerizing display. You dip your hands in the cool water and feel its refreshing touch. In this magical place, you feel a sense of serenity, knowing that you can always return to the Witch Cottage whenever you need solace and peace.
-
-Person A: Thank you for this calming story.
-
-Person B: You're welcome. Remember, whenever you need a moment of serenity, just close your eyes and revisit the Witch Cottage in your mind. It will always offer you a place of tranquility.
+Person A: Hey
+Person B: Hey, how are you?
+Person A: Not so great, I've been feeling really anxious lately.
+Person B: I'm sorry to hear that. Are you okay? 
+Person A: I have Panic Disorder, so I've been having frequent panic attacks.
+Person B: I'm here for you. What triggers your panic attacks?
+Person A: It can happen anytime and anywhere, but crowded places and enclosed spaces really set me off.
+Person B: I see. Is there anything specific that helps you calm down during a panic attack?
+Person A: Deep breathing and reminding myself that it's just temporary can sometimes help.
+Person B: That's good to know. Is there anything I can do to support you?
+Person A: Just being there and understanding means a lot. Thank you.
+Person B: Of course, that's what friends are for. Do you have any techniques you use to manage your anxiety on a daily basis?
+Person A: Regular exercise and sticking to a routine seem to help, but it's an ongoing struggle.
+Person B: It's great that you're actively trying to manage it. Have you tried any relaxation techniques, like meditation or yoga?
+Person A: I have tried meditation, but I haven't explored yoga yet. Maybe I should give it a shot.
+Person B: It might be worth a try. Just remember, it's okay to take it one step at a time. You're doing amazing already.
+Person A: Thanks for being so understanding and supportive. It means a lot to me.
+Person B: You're welcome! I'm always here for you, through the good times and the bad.

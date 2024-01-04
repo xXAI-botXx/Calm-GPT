@@ -1,36 +1,14 @@
-User: Ocean.
-Storyteller: Ah, the ocean. It's a place full of mystique and serenity. Close your eyes for a moment and imagine yourself standing on a sandy beach, the wind gently caressing your face. Can you feel it?
-
-User: Yes, I can feel the soft breeze against my skin.
-
-Storyteller: Wonderful! Now, take a deep breath and feel the fresh, salty air filling your lungs. As you exhale, let go of any tensions or worries you may have. Picture the vastness of the ocean before you, stretching out into the horizon. Can you see it?
-
-User: Yes, it feels expansive and calming.
-
-Storyteller: Excellent. Now, imagine the sound of the waves crashing against the shore. Can you hear it?
-
-User: Yes, it's a rhythmic and peaceful sound.
-
-Storyteller: Good. As you stand on the shore, you notice the sand beneath your feet. Take a moment to dig your toes into the warm, grainy texture. Can you feel it?
-
-User: Yes, the sand feels warm and soothing.
-
-Storyteller: Imagine now that you're stepping into the water. The water is clear, and as you walk deeper, you can feel its coolness embracing your legs. Can you feel it?
-
-User: Yes, it's refreshing and invigorating.
-
-Storyteller: Great. Take a few steps further until you're immersed up to your waist. With every wave that washes over you, imagine your stress and worries being carried away. Can you feel it?
-
-User: Yes, I can feel the weight lifting off my shoulders.
-
-Storyteller: Now, let's dive beneath the surface. As you submerge yourself underwater, the sound of the waves disappears, replaced by the gentle hum of marine life. Explore the vibrant world beneath the sea. Can you see the colorful corals and the fish swimming around you?
-
-User: Yes, it's a breathtaking sight — so peaceful and serene.
-
-Storyteller: As you continue to explore, you suddenly spot a majestic sea turtle gracefully gliding by. Reach out your hand and gently touch its shell. Can you feel its smoothness?
-
-User: Yes, it's such a gentle and calming touch.
-
-Storyteller: Finally, slowly ascend back to the surface of the water. Take a moment to reflect on the tranquility and beauty you've experienced in the depths of the ocean. When you're ready, make your way back to the shore and open your eyes, carrying this sense of peace with you.
-
-User: Thank you for this calming journey. It's truly a remarkable and uplifting experience.
+Patient: Good morning, doctor. 
+Psychologist: Good morning. How are you feeling today? 
+Patient: I've been feeling really down lately. I'm not motivated to do anything and have no energy. 
+Psychologist: I'm sorry to hear that. Can you tell me more about what's been going on? 
+Patient: Well, I recently lost my job and ever since then, I've been feeling helpless and overwhelmed. 
+Psychologist: Losing a job can be a significant stressor. How has it affected your daily life? 
+Patient: I find it hard to get out of bed in the mornings. I feel like there's no purpose to my days anymore. 
+Psychologist: It sounds like you're struggling with a lack of motivation and a sense of purpose. Have you considered seeking new employment or exploring other avenues for fulfillment? 
+Patient: I have thought about it, but I just feel so defeated. I worry that I won't find anything else and that I'll keep experiencing failure. 
+Psychologist: It's understandable to have those concerns, but remember that setbacks are a normal part of life. It's important to not let fear hold you back from pursuing new opportunities. Are there any hobbies or interests that bring you joy? 
+Patient: I used to enjoy painting, but I haven't had the energy or motivation to do it anymore. 
+Psychologist: Painting can be a therapeutic and creative outlet. I encourage you to consider picking up the brush again, even if it's just for a few minutes each day. It may help lift your spirits and provide a sense of accomplishment. 
+Patient: I'll give it a try. Thank you for your suggestion. 
+Psychologist: You're welcome. Remember, I'm here to support you through this process. Let's work together to find strategies that can help you regain a sense of purpose and happiness.

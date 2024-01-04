@@ -1,27 +1,21 @@
-User: Planetarium.
-
-Storyteller: Ah, the planetarium, a place of wonder and tranquility. Imagine stepping into a darkened room, where the air is still and the ceiling sparkles with thousands of tiny lights resembling stars. As you enter, take a moment to feel the coolness of the air on your skin. Can you sense it?
-
-User: Yes, I can feel the coolness. 
-
-Storyteller: Wonderful. Now, choose a soft, cushioned seat and allow yourself to sink into it, feeling the comfort and support beneath you. Take a deep breath, inhaling the calmness surrounding you. As you exhale, release any tension or worries that may be weighing on your mind. Can you do that?
-
-User: Yes, I let go of my worries.
-
-Storyteller: That's lovely. Now, as you settle into your seat, let your gaze wander upwards to the domed ceiling above. Notice how it glows in a gentle, ethereal light, creating an atmosphere that embraces you with serenity. Let your eyes rest on the twinkling stars above you, each one a tiny dot amidst the vastness of the universe. Can you visualize that?
-
-User: Yes, the twinkling stars are filling me with calmness.
-
-Storyteller: Excellent. Now, as you continue to gaze at the starry sky, imagine that you can reach out and touch one of those stars. Extend your hand slowly, and with your fingertips, let yourself feel the warmth of a distant sun upon your skin. Can you feel it?
-
-User: Yes, I can feel the warmth of the star on my fingertips.
-
-Storyteller: Beautiful. As you withdraw your hand, let yourself be overcome with a sense of wonder. Each of those stars holds its own unique story, billions of years in the making, just like you. With every breath, you soak in the energy and wisdom they radiate. Can you sense that connection?
-
-User: Yes, I feel connected to the stars and their stories.
-
-Storyteller: Marvelous. As you sit in this serene space, surrounded by the vastness of the cosmos, allow yourself to be filled with a deep sense of peace and tranquility. Embrace this moment and carry it with you, knowing that whenever you need it, you can return to this peaceful refuge in your mind. Take a few more moments to simply be, breathing in the stillness and exhaling any remaining tension. When you're ready, slowly bring your awareness back to the room around you.
-
-User: Thank you, that was truly calming and beautiful.
-
-Storyteller: You're most welcome. Remember, within you lies a universe of tranquility waiting to be explored.
+Person A: Hey 
+Person B: Hey, how are you? 
+Person A: Not so good actually. I've been feeling really down lately. 
+Person B: Oh no, what's been bothering you? 
+Person A: I have this thing called Body Dysmorphic Disorder and it's really taking a toll on me. 
+Person B: I'm sorry to hear that. Can you tell me a little bit more about it? 
+Person A: It's a mental disorder where I constantly obsess over perceived flaws in my appearance. It's really affecting my self-esteem. 
+Person B: That must be really tough. How do you cope with it? 
+Person A: I've tried therapy and medication, but sometimes it feels like nothing helps. 
+Person B: I understand how frustrating that can be. But don't give up hope, there's always something that can make a difference. 
+Person A: Thanks, I really appreciate your optimism. It's just hard when I can't even look in the mirror without feeling disgusted with myself. 
+Person B: I can't even begin to understand what you go through, but I want you to know that you are so much more than what you see in the mirror. You have so many qualities that make you unique and special. 
+Person A: That's really nice of you to say. It's just hard to believe sometimes. 
+Person B: I know it might be hard to fully believe right now, but I truly believe it. Is there anything specific that triggers your negative thoughts? 
+Person A: Anytime I see my reflection, really. I pick apart every little detail and it's exhausting. 
+Person B: You're not alone in feeling that way. So many people struggle with body image, even if they don't have BDD. Have you tried any techniques to help distract yourself when these thoughts arise? 
+Person A: Yeah, sometimes I'll try to focus on something else like reading or painting. It helps for a little while, but the thoughts always come back. 
+Person B: Distracting yourself can be a great temporary solution. Maybe you can also try practicing self-compassion and replacing negative thoughts with positive affirmations. 
+Person A: That sounds like a good idea. I'll give it a shot. 
+Person B: Remember, you're not defined by your appearance. I believe in you and your ability to overcome this. 
+Person A: Thank you, I really needed to hear that today.

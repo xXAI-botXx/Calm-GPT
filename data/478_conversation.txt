@@ -1,26 +1,31 @@
-User: Rainbow bridge.
-Storyteller: Ah, the beautiful Rainbow Bridge! Close your eyes and take a deep breath, my friend. Let's go on a mindful journey together. Picture yourself standing at the entrance of the bridge, surrounded by lush green meadows and the soothing sound of a gentle stream. Are you ready to cross this magnificent bridge?
+Patient: Good afternoon, Dr. Smith.
 
-User: Yes, I'm ready.
-Storyteller: As you step onto the bridge, notice the softness beneath your feet. It's like walking on fluffy clouds. With each step you take, imagine the worries and stresses of your day melting away, as if they're flowing down the stream below.
+Psychologist: Good afternoon, how are you feeling today?
 
-User: I can feel the tension leaving my body already.
-Storyteller: That's it. Focus on your breath, feeling it as it enters your body, filling you with renewed energy and calmness. As you continue to walk, look up and notice the vibrant colors spreading across the sky. Can you see the first hint of a rainbow?
+Patient: I've been feeling really anxious lately. I can't seem to stop worrying about everything.
 
-User: Yes, I see it. It's a faint streak of colors.
-Storyteller: Marvelous! With each step, the colors become more intense and vivid. As you walk further, imagine that the colors are enveloping you, wrapping you in their warmth and tranquility. The rainbow's radiant hues permeate every cell in your body, bringing you peace and harmony.
+Psychologist: I understand, anxiety can be overwhelming. What specific things have been causing you the most worry?
 
-User: It feels like a gentle embrace.
-Storyteller: Indeed, my friend. You are now surrounded by a perfect arch of magnificent colors. Take a moment to appreciate the beauty around you. Notice the way the sun's rays dance through the colors, creating a shimmering kaleidoscope that fills your vision.
+Patient: I've been constantly worrying about my job security. I feel like I'm not performing well enough and that I might lose my job.
 
-User: It's breathtaking.
-Storyteller: Now, imagine yourself becoming a part of this magical rainbow. Feel yourself merging with its brilliance. You are now a beacon of light and love, radiating positivity and joy. Allow this sensation to wash over you, cleansing your spirit and restoring your inner peace.
+Psychologist: It sounds like you're putting a lot of pressure on yourself. Can you tell me more about why you feel this way?
 
-User: I can feel the positivity flowing through me.
-Storyteller: Wonderful. As you continue your journey across the rainbow bridge, know that you are surrounded by a sense of contentment and serenity. With each step, you become more aligned with the present moment, leaving behind worries of the past and any anxiety about the future.
+Patient: Well, I made a few mistakes at work recently and my boss called me in for a meeting. I'm afraid I might get fired.
 
-User: I'm completely at peace.
-Storyteller: That's the power of the Rainbow Bridge, my friend. It gently guides us back to a place of calmness, reminding us of the beauty that exists within and around us. Take another deep breath and slowly open your eyes, carrying this tranquility with you as you re-enter the world.
+Psychologist: Making mistakes is a part of being human, and it's natural to feel anxious about the consequences. However, it's important to remember that one mistake doesn't define your entire worth or competence. Have you talked to your boss about your concerns?
 
-User: Thank you for that wonderful journey. I feel so much better now.
-Storyteller: You're most welcome. Remember that you can return to the Rainbow Bridge anytime you need a moment of peace. May it always guide you towards happiness and serenity.
+Patient: No, I haven't. I'm scared to bring it up and make things worse.
+
+Psychologist: It might be beneficial to have an open and honest conversation with your boss about how you're feeling. It could help alleviate some of your anxiety and provide you with a clear understanding of your job security.
+
+Patient: I suppose you're right. I'll try to gather the courage to talk to my boss.
+
+Psychologist: I believe in you. Remember, it's important to take care of yourself both mentally and emotionally. Don't hesitate to seek support from friends, family, or even a support group.
+
+Patient: Thank you, Dr. Smith. I appreciate your guidance and encouragement.
+
+Psychologist: You're welcome. Remember, I'm here to support you throughout this process. Let's continue working together to address your anxiety and find healthier coping mechanisms.
+
+Patient: I look forward to our next session. Thank you again, Dr. Smith.
+
+Psychologist: You're welcome. Take care and see you soon.

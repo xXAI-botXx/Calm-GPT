@@ -1,31 +1,16 @@
-User: Living on moon.
-
-Storyteller: Ah, the moon, a place full of wonder and tranquility. Close your eyes and join me on a journey to a moonlit oasis. Take a deep breath in, and as you exhale, let your imagination soar. Can you feel that sensation, the weightlessness beneath your feet as you begin to float gently towards the lunar surface?
-
-User: Yes, I can feel it.
-
-Storyteller: Wonderful. As you descend, notice the soft glow of the moon's surface, glowing with an otherworldly brilliance. The fine lunar dust beneath your feet feels cool against your skin. Take a moment to focus on the sensation. Can you feel the gentle touch of the lunar dust on your toes?
-
-User: Yes, it feels smooth and cool.
-
-Storyteller: Now, let's explore this moonlit oasis. As you walk forward, notice the tranquility of the lunar landscape. The stillness surrounds you, offering a sense of calm and peace. Take a moment to absorb the serene atmosphere. What do you notice about the quietness of this lunar world?
-
-User: It's so peaceful, and the silence is soothing.
-
-Storyteller: As you continue your journey, you come across a dazzling crater filled with moon water. Dip your hand into the cool liquid and notice the gentle ripples expanding across the surface. Take a moment to feel the coolness of the water against your skin. How does it make you feel?
-
-User: It's refreshing and revitalizing.
-
-Storyteller: As you move forward, the landscape gradually changes, leading you to a beautiful lunar garden. These otherworldly flowers shine with an ethereal glow, radiating a mesmerizing scent. Take a deep breath and notice the delicate fragrance in the air. What thoughts or emotions does this fragrance evoke for you?
-
-User: It's calming and reminds me of beautiful memories.
-
-Storyteller: As you stroll through this lunar garden, you come across a cozy moon hut, inviting you to find some respite. Step inside and feel the soft lunar fabric on your skin. Take a few moments to relax and let any tension melt away. How does the comfort of this moon hut make you feel?
-
-User: It's cozy and comforting, melting away any stress.
-
-Storyteller: Now, it's time to slowly return from this tranquil lunar oasis. As you rise from your moon chair and prepare to leave, take a moment to express gratitude for this meditative experience. What are you thankful for as you step back into your present reality?
-
-User: I am thankful for this peaceful journey and the reminder that tranquility can be found within.
-
-Storyteller: Take one final deep breath, feeling the calming energy of the moon surrounding you, and as you exhale, gently open your eyes, carrying the serenity of this lunar oasis with you into the world. Remember, whenever you need a moment of calm, you can return to this moonlit escape.
+Patient: Good afternoon, Doctor. Thank you for seeing me today.
+Psychologist: Good afternoon. It's my pleasure. How can I assist you?
+Patient: I've been feeling really overwhelmed lately. I constantly feel anxious and have trouble sleeping. 
+Psychologist: I'm sorry to hear that. When did you first start noticing these symptoms?
+Patient: It's been going on for a few months now. It started after a major life event - a job loss and the end of a long-term relationship.
+Psychologist: Those are significant stressors indeed. How do you cope with these feelings of anxiety?
+Patient: I've been trying different relaxation techniques like deep breathing and meditation, but they only provide temporary relief.
+Psychologist: I see. It sounds like you've been proactive in finding ways to cope. Have you noticed any patterns or triggers for your anxiety?
+Patient: Yes, I've noticed that crowded places and social situations tend to trigger my anxiety the most. It's becoming harder for me to be around people.
+Psychologist: It's important to identify triggers to better understand your anxiety. Have you considered seeking support from friends or family members?
+Patient: I haven't really opened up to them yet. I'm afraid they might not understand or judge me for my feelings.
+Psychologist: It's common to feel apprehensive about sharing our struggles, but you might be surprised by the support you receive. Building a strong support system can greatly benefit your mental health. Is there anything else you'd like to share with me today?
+Patient: Well, sometimes I also experience panic attacks. My heart races, and I feel like I can't breathe. It's really frightening.
+Psychologist: Panic attacks can be very distressing. It's important to know that you're not alone in experiencing them. We can work together to identify triggers and develop coping strategies to manage the panic attacks. How about we schedule regular sessions to address these concerns? 
+Patient: That sounds like a good plan. I appreciate your help, Doctor.
+Psychologist: My goal is to support you on your journey towards better mental health. I'm here to listen and assist you every step of the way. See you at our next session.

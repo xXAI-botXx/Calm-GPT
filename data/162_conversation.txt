@@ -1,29 +1,27 @@
-User: North pole.
+Patient: Hello, I'm here for my therapy session. 
 
-Storyteller: Ah, the North Pole! A place of serenity and tranquility, where the untouched beauty of nature awaits. Close your eyes for a moment and imagine yourself standing there, surrounded by gleaming white snow as far as the eye can see. Take a deep breath and let the crisp, clean air fill your lungs.
+Psychologist: Hello, please have a seat. How have you been since our last session? 
 
-User: I can see it now. Such a peaceful sight.
+Patient: Honestly, I've been feeling really anxious lately. My job is really stressful and it's affecting my sleep and overall mood. 
 
-Storyteller: As you stand there, you notice a soft, gentle breeze brushing against your cheeks. The sunlight reflects off the sparkling snow, creating a breathtaking kaleidoscope of colors. You feel a sense of calmness and wonder wash over you.
+Psychologist: I'm sorry to hear that. It sounds like you're dealing with a lot of pressure. Have you been able to identify any specific triggers for your anxiety? 
 
-User: I feel so at peace. It's like time stands still in this magical place.
+Patient: Well, I think it's mainly the constant deadlines at work. I feel like I'm always behind and it's hard for me to keep up. 
 
-Storyteller: As you walk along, you come across a friendly polar bear, gracefully making its way across the frozen landscape. The bear's thick, white fur glistens in the sunlight. Take a moment to observe its graceful movements and how effortlessly it blends in with the snowy surroundings.
+Psychologist: I see. Would you say that your anxiety is more related to the fear of not meeting expectations or the fear of making mistakes? 
 
-User: I visualize the polar bear, so noble and majestic. It moves with such grace and strength.
+Patient: It's definitely a combination of both. I have this constant fear of failing and disappointing others. And when I make a mistake, I tend to dwell on it and beat myself up about it. 
 
-Storyteller: Ahead of you, you notice an enchanting ice cave, its walls glistening with ice crystals. You enter the cave, and as you take each step, you feel a sense of calm and serenity washing over you. The ice formations inside sparkle like diamonds, and the air feels even fresher than before.
+Psychologist: It's completely normal to have these feelings of self-doubt and fear of failure. We can work on strategies to help you manage these thoughts and develop more self-compassion. Have you tried any relaxation techniques or mindfulness exercises to help calm your mind? 
 
-User: I step into the cave and let the coolness embrace me. The beauty of the ice formations captivates my senses.
+Patient: Yes, I've tried deep breathing exercises when I feel overwhelmed, and it does help a bit. But sometimes it feels like I just can't shake off the anxiety no matter what I do. 
 
-Storyteller: Inside the cave, you find a cozy spot to sit. As you settle down, you notice the dancing Northern Lights above you. The vibrant hues of green, blue, and purple create a mesmerizing display in the night sky. Allow yourself to be fully present in this moment, as you let the beauty of the lights fill your heart.
+Psychologist: It's understandable to feel that way when you're dealing with persistent anxiety. We can explore different coping mechanisms together and find what works best for you. Additionally, we can look at changing any negative thought patterns that contribute to your anxiety. 
 
-User: I feel so connected to this moment. The Northern Lights captivate me, and I let their beauty fill my being.
+Patient: That would be great. I really want to be able to manage my anxiety better and feel more in control of my emotions. 
 
-Storyteller: As you sit there, surrounded by the tranquility of the North Pole, you find a deep sense of peace and stillness within yourself. Allow this calmness to settle within you, like a warm blanket on a cold winter's night. Feel the gentle breeze and the soothing sounds of nature enveloping you, bringing you a sense of inner peace.
+Psychologist: I'm glad to hear that you're motivated to make positive changes. Just remember, progress takes time, and it's important to be patient with yourself throughout this process. Is there anything else you'd like to discuss today? 
 
-User: I embrace this tranquility and let it envelop me completely. The North Pole has brought me a sense of peace that I carry within me.
+Patient: Not at the moment, but I really appreciate your guidance and support. Thank you. 
 
-Storyteller: As you slowly open your eyes, bring the essence of the North Pole with you, allowing it to remain in your heart and mind. Remember that just like the North Pole, you have the power to find tranquility and serenity within, no matter where you may be. Take a deep breath, and whenever you need a moment of calm, close your eyes and transport yourself back to this peaceful place.
-
-User: Thank you for taking me on this beautiful journey. I feel so much more at ease now.
+Psychologist: You're welcome. Remember, I'm here to help you every step of the way. We'll continue working on managing your anxiety in our next session. Take care until then.

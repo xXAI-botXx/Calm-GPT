@@ -1,35 +1,14 @@
-User: Starry sky.
-
-Storyteller: Ah, yes, the starry sky. It's such a breathtaking sight, isn't it? Imagine standing in a peaceful field, surrounded by vast darkness, only to be illuminated by countless shimmering stars. Take a deep breath as you let yourself relax into this scene. 
-
-User: I can feel the calmness already.
-
-Storyteller: Wonderful. As you look up, take a moment to observe the moon, gently glowing and casting a soft glow upon your surroundings. The stars, like tiny diamonds, sparkle against the velvety night sky. Can you see them flickering ever so bright?
-
-User: Yes, I can see them. They are like little beacons of hope.
-
-Storyteller: Exactly! Those stars hold so much beauty and wonder. Now, let your imagination wander to a single star that stands out to you. See it as a guide, a storyteller among the stars. Picture it twinkling just for you.
-
-User: I can visualize a star in my mind now. It's glowing so brightly.
-
-Storyteller: Excellent. That star, my friend, holds a special message just for you. It tells a tale of resilience and inner strength. Close your eyes and imagine it forming words - words that bring you comfort and peace.
-
-User: *closes eyes, takes a deep breath* I'm listening.
-
-Storyteller: The star whispers to you, "You are infinitely capable. Feel the warmth of the light it radiates as it bathes you in its gentle loving energy. You are supported by the universe, and even in the darkest moments, remember that your light shines brightly from within."
-
-User: *opens eyes* That's incredibly comforting. Thank you.
-
-Storyteller: You're welcome. Now, let's continue our journey among the stars. As you walk through this celestial dreamscape, notice how the stars gradually change their positions, creating patterns and constellations. Can you recognize any familiar shapes?
-
-User: I see a cluster of stars that form a graceful swan.
-
-Storyteller: Marvelous! That's the constellation Cygnus, the swan. Imagine yourself floating alongside it, gracefully gliding through the cosmic waves. Feel the weightlessness and tranquility. Isn't it amazing how the stars can transport us to places beyond our wildest dreams?
-
-User: It truly is. I feel so serene and connected.
-
-Storyteller: As you continue your celestial journey, let your mind wander and explore the infinite possibilities that lie within the vastness of the universe. Remember, just like the stars, you too are a part of this universal tapestry. Take a moment to appreciate your own unique brilliance.
-
-User: I will. Thank you for this beautiful story and for reminding me of my own light.
-
-Storyteller: You're welcome, dear friend. Always remember that within you, there is a starry sky of untapped potential. Embrace it, nurture it, and let it guide you on your path towards peace and fulfillment.
+Patient: Good morning. 
+Psychologist: Good morning. How are you feeling today? 
+Patient: I've been feeling really down lately. I can't seem to find any joy in anything anymore. 
+Psychologist: I understand. Can you tell me more about what you've been experiencing? 
+Patient: Well, I used to enjoy spending time with my friends and doing activities I love, but now everything feels so meaningless. I feel exhausted all the time and have been struggling to get out of bed in the mornings. 
+Psychologist: It sounds like you're going through a tough time. Have there been any recent changes or events that might have contributed to your current state? 
+Patient: Not really. Everything has been relatively stable in my life, which is why I can't understand why I'm feeling this way. 
+Psychologist: Sometimes, our emotions and mood can fluctuate for no apparent reason. Have you noticed any other symptoms besides feeling down and lacking interest? 
+Patient: I've been having trouble sleeping. I either can't fall asleep or wake up during the night and can't go back to sleep. I've also lost my appetite and have been feeling very irritable. 
+Psychologist: These are common symptoms of depression. It's important to remember that you're not alone, and there are methods and treatments that can help you start feeling better. Have you considered seeking professional help before? 
+Patient: This is actually my first time seeking help. I've always felt like I should be able to handle my problems on my own, but it's become too overwhelming now. 
+Psychologist: It's brave of you to take this step. Seeking help is a sign of strength, not weakness. Together, we can work to identify the underlying causes of your symptoms and develop coping strategies to improve your well-being. 
+Patient: Thank you, I appreciate your support. I'm just tired of feeling this way and ready to make positive changes in my life. 
+Psychologist: That's a great mindset to have. We'll work together to create a personalized treatment plan that fits your needs and goals. Remember, progress takes time, but with dedication and support, you can rediscover joy and meaning in your life.

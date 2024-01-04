@@ -1,30 +1,16 @@
-User: Garden.
-Storyteller: Ah, the garden, a place of tranquility and beauty. Picture a sunny morning, as you step into a lush garden filled with vibrant colors and the gentle fragrance of flowers. Just take a moment to breathe in that sweet aroma. Can you feel it?
-
-User: Yes, I can sense the aroma in my imagination.
-
-Storyteller: Wonderful. Now, as you walk along a stone path, feel the coolness beneath your feet. Each step brings you closer to an old, wise oak tree, standing tall and majestically in the center of the garden. Can you feel the ground beneath you?
-
-User: Yes, I can feel the cool stones underfoot.
-
-Storyteller: Great. As you approach the oak tree, notice how the sun dances through the leaves, casting a beautiful pattern of light and shadow on the ground. Take a moment to appreciate this tranquil spectacle. How does it make you feel?
-
-User: It makes me feel calm and peaceful.
-
-Storyteller: That's wonderful. Now, let's focus on the flowers. Take a closer look and notice the intricate details of each petal. Imagine running your fingertips along their delicate edges. Feel the softness and the subtle texture. Can you imagine that sensation?
-
-User: Yes, it feels like a gentle caress.
-
-Storyteller: Perfect. Now, as you explore the garden further, you come across a small pond. The water is crystal clear and teeming with vibrant fish. Close your eyes and imagine dipping your hand into the cool water. Can you feel the ripples?
-
-User: Yes, I can feel the refreshing ripples on my skin.
-
-Storyteller: How wonderful it must be to have that sensation. Now, as the day draws to a close, find a cozy spot in the garden where you can sit and unwind. Take a few deep breaths, feeling the gentle breeze against your face. As you exhale, let go of any tension or worries you may have. Can you feel your body relaxing?
-
-User: Yes, I can feel the tension leaving my body.
-
-Storyteller: Good. Now, as the sun sets, casting a beautiful golden glow over the garden, let your mind wander and imagine your own peaceful sanctuary within this garden. Create a place where you can retreat to, whenever you need a moment of calm and serenity. Can you see it?
-
-User: Yes, I can see my peaceful sanctuary within the garden.
-
-Storyteller: That's wonderful. Whenever you need to find inner peace, just close your eyes and return to this beautiful garden in your mind. Know that it will always be there, waiting for you.
+Patient: Hi, I'm here for my therapy session. 
+Psychologist: Hello, welcome. How have you been since our last session? 
+Patient: I've been feeling a bit overwhelmed lately. I've been experiencing a lot of anxiety. 
+Psychologist: I understand that anxiety can be really difficult to deal with. Can you tell me more about what triggers your anxiety? 
+Patient: It seems to come on whenever I have to speak in public or meet new people. I start to feel this tightness in my chest and my heart races. 
+Psychologist: Those are common symptoms of anxiety. Have you noticed any patterns or specific situations where this happens? 
+Patient: It mainly happens at work, during team meetings or presentations. It's gotten to a point where I avoid these situations as much as possible. 
+Psychologist: Avoidance can provide temporary relief, but it can also reinforce the anxiety in the long run. Is there anything else that contributes to your anxiety? 
+Patient: Yes, I also worry a lot about what others think of me. I'm constantly seeking approval and fear being judged or criticized. 
+Psychologist: It sounds like you have a high level of self-consciousness, which can definitely contribute to anxiety. We can work on building your confidence and self-acceptance. 
+Patient: That would be helpful. I'm tired of letting my anxiety control my life. What strategies can I use to manage my anxiety in these situations? 
+Psychologist: We can start by exploring some relaxation techniques, such as deep breathing and mindfulness. It's also important to challenge any negative thoughts or beliefs you have about yourself. 
+Patient: I'll give those techniques a try. Do you have any other suggestions for me? 
+Psychologist: I would also encourage you to gradually expose yourself to the situations that trigger your anxiety, in a controlled and supportive environment. This can help you build up your tolerance and confidence over time. 
+Patient: That makes sense. I'll do my best to overcome my anxiety. Thank you for your guidance and support. 
+Psychologist: You're welcome. Remember that progress takes time and effort, but I believe in your ability to overcome this. Let's continue working together to help you live a more fulfilling life.

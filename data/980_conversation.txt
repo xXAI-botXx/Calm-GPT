@@ -1,28 +1,16 @@
-User: Super Mario World.
-Storyteller: Ah, Super Mario World, what a magical place it is. Close your eyes and take a deep breath. Imagine yourself standing on a lush green hill, feeling the gentle breeze against your face. The bright sun shines above, warming your skin with its soothing rays. Can you feel the warmth?
-
-User: Yes, I can feel it.
-
-Storyteller: Excellent. Now, as you walk further into this world, you come across a beautiful forest. The trees reach skyward, creating a peaceful canopy above you. Can you hear the leaves rustling in the gentle wind?
-
-User: Yes, I can hear it.
-
-Storyteller: Wonderful. Deep in the forest, you stumble upon a crystal-clear river. Its peaceful babbling whispers to you, inviting you to dip your hand into its cool waters. Can you feel the refreshing touch?
-
-User: Yes, it feels refreshing.
-
-Storyteller: Now, as you continue your journey, you encounter a vibrant meadow filled with colorful flowers. Each step you take releases a sweet fragrance into the air. Can you smell the delightful scents?
-
-User: Yes, it smells delightful.
-
-Storyteller: As you walk further, a majestic mountain range suddenly appears on the horizon. The peaks reach toward the endless sky, reminding you of your own resilience and strength. Can you feel their steadfast energy?
-
-User: Yes, I can feel their energy.
-
-Storyteller: Now, as you approach a serene lake nestled between the mountains, the sun begins to set, painting the sky in mesmerizing hues of orange and purple. The gentle sound of waves lapping against the shore lulls you into a state of tranquility. Can you feel the peacefulness settling within you?
-
-User: Yes, I feel peaceful.
-
-Storyteller: In this enchanting Super Mario World, you have discovered a place of calm and serenity. Take a moment to savor the stillness, the beauty, and the joy of this world. Allow yourself to let go of any worries or stress and simply be present in this moment. Take a deep breath, exhale slowly, and open your eyes, feeling refreshed and at peace.
-
-User: Thank you, that was a beautiful story. I feel calm now.
+Person A: Hey, I wanted to talk to you about something that's been on my mind. 
+Person B: Of course! What's bothering you? 
+Person A: Well, I have something called Selective Mutism. It's a condition where I find it extremely difficult to speak in certain situations or around certain people. 
+Person B: Oh wow, I've heard of that before. Can you tell me a little more about it? When did you first notice it? 
+Person A: It started when I was a child, around five years old. I would freeze up and become completely unable to speak in social settings, like at school or at parties. 
+Person B: That must have been really challenging. How do you usually feel in those situations? 
+Person A: I feel overwhelmed and anxious. It's like my voice gets trapped inside me, and I can't find the courage to let it out. 
+Person B: I see. You know, it's great that you opened up to me about this. I want you to know that I'm here to support you. 
+Person A: Thank you, that means a lot to me. It's just really hard to explain to people why I can't talk sometimes. 
+Person B: I completely understand. It's important to remember that we all have different struggles, and there's no shame in not always being able to express ourselves verbally. Have you tried any techniques to help manage it? 
+Person A: I've been working with a therapist who has suggested various strategies, like gradual exposure and relaxation techniques. It's a work in progress, but I'm trying my best. 
+Person B: That's wonderful! It takes a lot of courage to take those steps and seek help. I'm proud of you for not giving up. 
+Person A: Thank you. Sometimes I worry that people won't be patient with me or will judge me for not speaking. 
+Person B: I can understand why you might feel that way, but let me assure you that I'm in your corner. We all have our own unique challenges, and it's important for others to be understanding and accepting. 
+Person A: You're right, and it really means a lot to have your support. Thank you for listening and being so positive. 
+Person B: Anytime! Remember, we're all here to help each other. You're not alone in this, and together we can find ways to navigate through challenging situations.

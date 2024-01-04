@@ -1,20 +1,23 @@
-User: Safari. 
-Storyteller: Ah, safari! A beautiful word that takes us on a journey to wild and serene places. Picture yourself standing in the heart of the African savannah, feeling the warmth of the golden sun on your skin. You can hear the gentle rustling of leaves and the distant calls of magnificent creatures hidden within the tall grass. 
+Patient: Good morning, Dr. Smith. How are you today?
 
-User: What do I see in this safari? 
-Storyteller: As you immerse yourself in the safari, you notice a majestic herd of elephants slowly passing by. Their graceful movements and serene aura radiate a sense of calmness that envelops you. The tiny elephants playfully flap their ears, showing their joy in the simplest of moments. In the distance, a family of giraffes peacefully nibbles on acacia leaves, their long necks swaying with each bite.
+Psychologist: Good morning, John. I'm doing well, thank you. How can I help you today?
 
-User: Can I touch any animals? 
-Storyteller: While touching the animals in the wild is not recommended, you can admire their beauty from a safe distance. Look over there! A family of cheetahs gracefully making their way through the tall grass. The delicate spots on their sleek fur blend perfectly with their surroundings. Feel the excitement building up inside you as you witness nature's perfect harmony.
+Patient: I've been feeling really anxious lately. It's been interfering with my daily life and I'm not sure how to cope with it.
 
-User: Do I see any birds in this safari? 
-Storyteller: Absolutely! Above you, a vibrant array of birds soar freely, their colorful plumage catching the sunlight. You spot a flamboyance of flamingos gracefully wading in a nearby lake, their pink feathers mirroring the reflection of a clear blue sky. Take a moment to breathe in the fresh air and listen to the melodious songs of the birds, adding a touch of serenity to this already peaceful place.
+Psychologist: I'm sorry to hear that, John. Anxiety can be difficult to deal with, but rest assured, we can work through this together. Can you tell me more about what triggers your anxiety?
 
-User: What about the trees and plants? 
-Storyteller: The landscape is adorned with lush vegetation, providing shelter and sustenance for the inhabitants of the safari. The tall baobab trees reach up to the heavens, their colossal trunks holding timeless wisdom within their ancient rings. The vibrant wildflowers carpet the ground, painting the savannah in a kaleidoscope of colors. Take a moment to feel the softness of the grass under your bare feet, grounding yourself in this tranquil paradise.
+Patient: Well, it usually starts when I'm at work. The pressure to meet deadlines and perform well really overwhelms me. Sometimes, it even affects my sleep and appetite.
 
-User: Can I rest and feel at peace in this safari? 
-Storyteller: Indeed, rest and peace are integral parts of this safari experience. As you find a comfortable spot, you settle down and relax, allowing the soothing sounds of nature to envelop you. The gentle breeze caresses your face, carrying with it the aroma of blooming flowers. Allow your thoughts to wander and find solace in the stillness of your surroundings. Feel your body and mind becoming lighter, as if carried away on a gentle current of tranquility.
+Psychologist: That sounds like a high-stress environment, John. It's important to identify the specific thoughts or situations that trigger your anxiety. Have you noticed any negative thought patterns that contribute to your anxiety?
 
-User: This story brings me peace. 
-Storyteller: I'm glad to hear that. Remember, the safari is not only a physical place; it can also be a state of mind. Close your eyes and envision this serene landscape whenever you need to find a moment of calmness. Engage with your senses, embrace the stillness, and let the safari within you bring you peace whenever you need it.
+Patient: Yes, I often worry about making mistakes and not being good enough. I constantly second-guess myself and fear judgment from others.
+
+Psychologist: It's common to have self-doubt, John, but remember that perfection doesn't exist. Let's work on challenging those negative thoughts and replacing them with more realistic and positive ones. We'll also explore relaxation techniques to help you manage your anxiety during high-pressure moments at work.
+
+Patient: That sounds helpful, Dr. Smith. I want to learn how to cope better with my anxiety, so it doesn't control my life anymore.
+
+Psychologist: I'm glad to hear that, John. Together, we'll develop a personalized plan to address your anxiety. It may also be beneficial for us to explore any underlying causes or source of stress in your life. We're in this journey together, and I'm here to support you every step of the way.
+
+Patient: Thank you, Dr. Smith. I appreciate your understanding and support. I'm hopeful that with your guidance, I can overcome my anxiety and live a more fulfilling life.
+
+Psychologist: You're welcome, John. Remember, healing takes time, but I have confidence in your ability to overcome this. We'll take things at your pace and celebrate each small victory along the way.

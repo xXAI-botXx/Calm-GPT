@@ -1,29 +1,16 @@
-User: Garden.
-
-Storyteller: Ah, the garden, a place of tranquility and beauty. Close your eyes for a moment, and imagine yourself standing at the entrance of a breathtaking garden. As you open the gate, a gentle breeze caresses your face, carrying with it the sweet scent of blooming flowers. Can you feel it?
-
-User: Yes, I can feel the breeze and the fragrance. 
-
-Storyteller: Very good. As you take your first step into the garden, notice the softness of the grass beneath your feet. It feels cool and refreshing, like a comforting embrace. Take a moment and feel the grass under your toes, grounding you in this peaceful space.
-
-User: I can feel the softness of the grass, it feels so soothing.
-
-Storyteller: As you continue walking, you come across a vibrant rose bush. Its delicate petals are a mix of deep reds and soft pinks. Imagine reaching out and gently running your fingers along the velvety petals. Notice how they feel against your skin.
-
-User: I can imagine the roses and the soft touch of the petals. It's calming.
-
-Storyteller: Let's keep walking, shall we? Ahead, you notice a small pond filled with sparkling water. Its surface is smooth and serene. Take a moment to dip your hand in the cool water and feel the ripples forming beneath your touch.
-
-User: The water feels refreshing and it's so peaceful to see the ripples spreading.
-
-Storyteller: Now, close your eyes once more and listen carefully. Do you hear the gentle chirping of birds? Picture them perched on the branches, singing their melodious songs. Can you visualize their colorful feathers and hear their beautiful symphony?
-
-User: Yes, I can hear the birds singing and visualize their colorful feathers. It's delightful.
-
-Storyteller: In the distance, you spot a cozy wooden bench, bathed in dappled sunlight. Take a seat and allow your body to relax. Feel the warmth of the sun on your skin and the gentle support of the bench. Take a deep breath and let yourself fully absorb the peacefulness of this garden.
-
-User: I'm sitting on the bench, feeling the warmth of the sun and the ambiance of serenity. It's so calming.
-
-Storyteller: Take a moment to reflect on the beauty around you, and the calmness that permeates this sacred space. As you open your eyes, carry this sense of tranquility with you throughout your day. Remember, you can always return to this garden in your mind whenever you need a moment of serenity.
-
-User: Thank you for taking me on this journey. I feel so calm and at peace. I will definitely revisit this garden in my mind whenever I need it.
+Person A: Hey 
+Person B: Hey, how are you? 
+Person A: Not great, actually. I've been feeling really anxious lately.
+Person B: I'm really sorry to hear that. How long has this been going on?
+Person A: It's been a few weeks now. I just can't seem to shake this feeling of worry and fear. It's overwhelming.
+Person B: I can imagine how tough that must be. Have you spoken to anyone about it?
+Person A: Not really. I haven't been sure how to bring it up or who to talk to.
+Person B: Well, I'm glad you opened up to me. It's important not to keep these things bottled up. Have you considered reaching out to a professional?
+Person A: I've been thinking about it, but I'm worried about what they might tell me.
+Person B: I understand your concerns, but seeking professional help can be a really positive step towards managing your anxiety. They can provide you with strategies and support.
+Person A: I guess you're right. Maybe it's time I seek some guidance.
+Person B: That's great to hear. Remember, you're not alone in this. There are many people who understand and can help. Is there anything I can do to support you right now?
+Person A: Just talking to you about it is already a big help. Thank you for listening and being so positive.
+Person B: Of course, anytime! Remember, self-care is important too. Take some time for yourself and do things that help you relax.
+Person A: Will do. Thanks again for being there for me.
+Person B: Anytime. You've got this!

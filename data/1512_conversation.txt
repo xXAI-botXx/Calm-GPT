@@ -1,31 +1,16 @@
-User: Ocean.
-Storyteller: Ah, the ocean, a vast and tranquil expanse of water. Close your eyes and imagine yourself standing on the shore, feeling the gentle caress of a cool ocean breeze on your skin. Take a deep breath, inhaling the salty air, and exhale any tension you may be carrying with you.
-
-User: (Takes a deep breath) 
-
-Storyteller: As you walk along the sandy beach, the sand feels soft beneath your feet. Picture the grains of sand shifting and moving with each step you take, as if they are offering you a grounding sensation. With every footfall, feel yourself becoming more connected to the earth and the ocean.
-
-User: (Continues walking on the beach) 
-
-Storyteller: In the distance, you see the waves gently rolling in, their rhythmic motion bringing a sense of calmness to your mind. Take a moment to observe the waves, how they rise and fall, always in harmony with the currents of the ocean. As you watch, imagine your breath syncing with the ebb and flow of the tides.
-
-User: (Observes the waves, syncing breath with them) 
-
-Storyteller: You decide to venture closer to the water's edge. As you approach, you dip your toes into the refreshing, cool water. Feel the momentary chill as it washes over you, soothing your weary feet. Take another deep breath and imagine your worries and stresses being carried away with each wave that washes back into the ocean.
-
-User: (Dips toes into the water, takes a deep breath) 
-
-Storyteller: Ahead of you, a small sandbar emerges, seemingly untouched by the tides. You make your way towards it, feeling the wet sand squish between your toes. As you step onto the sandbar, you notice a gentle breeze blowing across the water, creating ripples that seem to dance to an enchanting melody.
-
-User: (Walks towards the sandbar, feeling the breeze) 
-
-Storyteller: Finding a comfortable spot, you gently sit down and close your eyes. Be aware of the sounds surrounding you - the gentle lapping of the waves, the distant calls of seagulls, and the soft rustling of palm fronds in the breeze. Inhale deeply through your nose, counting to four, hold your breath for a moment, and then exhale slowly through your mouth, counting to eight.
-
-User: (Closes eyes, follows the breathing exercise) 
-
-Storyteller: As you continue to breathe deeply, imagine yourself becoming one with the ocean. Visualize the vastness of the water, the endless shades of blue that extend towards the horizon. Feel a sense of serenity and peace washing over you, like a warm embrace from the ocean itself.
-
-User: (Continues breathing, feeling at peace) 
-
-Storyteller: Take a moment to express gratitude for this moment of calm and tranquility. Thank the ocean for its beauty and for providing a sense of peace within you. As you slowly open your eyes, carry this feeling of peace and relaxation with you, knowing that you can tap into it whenever you need a moment of respite.
-
+Person A: Hey
+Person B: Hey, how are you?
+Person A: Not so great, I've been feeling really anxious lately.
+Person B: Oh no, I'm sorry to hear that. What's been causing your anxiety?
+Person A: It's my agoraphobia. I feel terrified of leaving my house, even just the thought of it makes me panic.
+Person B: That must be really tough for you. Have you been able to identify any triggers for your agoraphobia?
+Person A: Yeah, crowded places and unfamiliar environments trigger my panic attacks.
+Person B: I see. Have you tried any coping mechanisms or techniques to help manage your anxiety when you do have to go out?
+Person A: Deep breathing exercises and visualization techniques sometimes help, but it's hard to remember them in the moment.
+Person B: That's understandable. Is there anything specific that I can do to support you when you're feeling anxious?
+Person A: Just having someone to talk to when I'm feeling overwhelmed would mean a lot.
+Person B: Of course, I'm here for you anytime. Is there a specific plan or strategy we can come up with to help you through your panic attacks?
+Person A: Maybe we could gradually expose myself to situations that make me anxious, starting with small steps.
+Person B: That sounds like a great idea! I'll be there to support you every step of the way. You're incredibly brave for facing your fears head-on.
+Person A: Thank you for being so understanding and positive. It truly means a lot to me.
+Person B: It's my pleasure. Remember, you're not alone in this journey. We'll take it one day at a time, and I'm confident that you'll overcome your agoraphobia.

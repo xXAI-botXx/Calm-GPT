@@ -1,30 +1,12 @@
-User: Home.
-Storyteller: Ah, home. A word that holds so much meaning and warmth. Close your eyes and take a deep breath, letting the word 'home' settle peacefully in your mind. Can you imagine a gentle breeze caressing your face as you stand in front of your home?
-
-User: Yes, I can feel the breeze and see my home in my mind's eye. 
-
-Storyteller: Perfect. Now, open the gate and step into your beautiful garden. Allow yourself to feel the soft grass beneath your feet as you take a leisurely stroll towards the front porch. Can you hear the birds singing sweetly in the distance?
-
-User: Yes, I can hear them. It's so calming.
-
-Storyteller: Wonderful. As you approach the front door, envision the scent of freshly baked cookies wafting through the air, enticing you to come inside. Can you smell them?
-
-User: Yes, they smell delicious.
-
-Storyteller: Now step inside your home. Take a moment to notice the cozy warmth enveloping you like a soft blanket. Picture the flickering flames in the fireplace, casting dancing shadows on the walls. Can you see them?
-
-User: Yes, the flames are so mesmerizing.
-
-Storyteller: As you make your way to your favorite room, imagine the soft, plush carpet beneath your feet. Feel the texture beneath your toes. Can you imagine that sensation?
-
-User: Yes, it feels so comforting.
-
-Storyteller: Now, settle yourself into a comfortable chair in this room. Take a deep breath and exhale slowly, releasing any tension or stress you may be carrying. Allow yourself to fully embrace the sense of peace and tranquility within your home. Can you feel the calmness spreading throughout your body?
-
-User: Yes, I feel so calm and at ease.
-
-Storyteller: Take one more deep breath in, and as you exhale, imagine all the love and positivity that resides within the walls of your home filling every inch of your being. You are surrounded by warmth, safety, and contentment. Home truly is a sanctuary for your mind, body, and soul.
-
-User: I can really feel that. Thank you for guiding me through this calming home visualization.
-
-Storyteller: You're most welcome. Remember, whenever you need a moment of peace, simply close your eyes and return to the serenity of your home.
+Person A: Hey
+Person B: Hey, how are you?
+Person A: I'm feeling really panicked right now. I lost my wallet and I don't have any identification or money.
+Person B: Oh no! That sounds really stressful. How about I tell you a story to take your mind off things? Once upon a time, there was a brave adventurer who found themselves in a similar situation...
+Person A: That sounds nice. Please go on.
+Person B: This adventurer realized that they had lost their wallet while exploring a magical forest. But instead of panicking, they decided to use their survival skills and resourcefulness to find a solution. They knew that there were friendly animals in the forest who could help them. 
+Person A: That's interesting. What did the adventurer do next?
+Person B: Well, they came across a wise owl who offered to guide them to a hidden treasure that could help them replace their lost items. The owl led them to a secret cave where they found a chest filled with money and a magical identification card that could never be lost!
+Person A: Wow, that's amazing! I wish I had a wise owl to help me right now.
+Person B: Maybe there's a metaphorical wise owl in your life, someone who can offer guidance and support. Or maybe, just like the adventurer, you can tap into your own inner strength and find creative solutions to your problem. Remember, everything is possible!
+Person A: You're right. I shouldn't let this situation bring me down. Thank you for sharing the story, it really helped to distract and uplift me.
+Person B: I'm glad it could bring a smile to your face. Just remember, no matter what life throws at you, there's always a way to overcome it. You've got this!
