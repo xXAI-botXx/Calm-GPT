@@ -1,43 +1,65 @@
 <img src="logo.jpeg"></img>
 
-<h1 style="text-align:center">🌊RIS-Bot⛱️</h1>
+<h1 style="text-align:center">Your calm down bot</h1>
 
-<h3 style="text-align:center">Rest in Story</h3>
-
-<!--Your interactive story companion for serene moments-->
-<!--Experience pure calmness-->
-<!--The bot you wish was your therapist🏖️-->
+<h2 style="text-align:center">☀️ The bot you wish was your therapist🏖️</h2>
 
 
 
-Tags: 
+Content:
+
+- [Tags](#tags)
+- [Description](#description)
+- [Definition Talk Down](#definition-talk-down)
+- [Project Milestones](#project-milestones)
+- [Advantages and Disadvantages](#advantages-and-disadvantages)
+- [Fine-Tuning Data](#fine-tuning-data)
+- [Guide](#guide)
+- [Branches](#branches)
+- [Fine-Tuning](#fine-tuning)
+
+
+
+### Tags
+
 - chatbot
 - english
 - GPT2
 - anxiety/stress/....
 
-<br><br>
-
-### Guide
-
-...
-
 
 
 ### Description
 
-A GPT2 model is to be extended to a new task via transfer learning. The GPT2 model is to be fine-tuned in such a way that it generates interactive, meditative and calming stories for the user.<br>
-The aim is to create a reading experience that promotes positive thoughts.<br>
-The language is English and the model is to be deployed on Discord.<br>
-Interaction data from a user and a storyteller is required for the training data.<br>
+A GPT2 model is to be extended to a new task via transfer learning. The GPT2 model is to be fine-tuned so that it acts as a "talk down" for anxiety/panic attacks. <br>
+The model should therefore act as a chatbot. The communication participant should be positively encouraged and reassured.
+The functionality of the bot is therefore similar to Eliza.<br>
+The language is English and the model is to be deployed as a chatbot on Discord.<br>
+The training data requires positive conversations that are relaxed and reassuring. The conversation should be sensitive and emotional, but with a certain lightness.<br>
+The chatbot should therefore make reassuring statements at the end. It should remain rational and focus on the "here and now". It could possibly teach small tasks/relaxation techniques.<br>
 Since such training data is difficult to obtain, ChatGPT is used to generate the data.<br>
 
-The GPT3 model would actually be used for this, but this is associated with costs, so the decision was made to use the GPT2 model.
+<br>
+
+The GPT3 model would actually be used for this, but this is associated with costs, so the decision was made to use the GPT2 model.<br>
+
+<br>
+
+### Definition Talk Down
+A "talk down" for anxiety usually refers to a technique used in cognitive behavioral therapy. It is a type of self-talk in which you make reassuring and rational statements to yourself in order to reduce the intensity of your anxiety. <br>
+A "talk down" for anxiety involves several key attributes: <br>
+1. self-soothing: You make soothing statements to yourself to reduce the intensity of the anxiety. This can include things like "I'm safe" or "This is only temporary".
+
+2. rational thoughts: You try to replace the irrational fears you have with rational and logical thoughts. For example, you could say to yourself: "There is no real reason for this fear".
+
+3. mindfulness: focus on the here and now instead of focusing on the future or the past. This can help to reduce anxiety by focusing on what is happening right now rather than what might happen.
+
+4. relaxation techniques: Techniques such as deep breathing or progressive muscle relaxation can help to alleviate the physical symptoms of anxiety.
 
 
 
 
-### Project Milestones:
+### Project Milestones
 - Traindata Commands are implemented
 - Traindata (dialogs) with ChatGPT are generated
 - A GPT2 model was trained/finetuned with the training data
@@ -45,15 +67,90 @@ The GPT3 model would actually be used for this, but this is associated with cost
 
 
 
-### Advantages
+### Advantages and Disadvantages
 
 Pros:
-
 - for free
 - every time
-- everywhere 
-- 100% private 
-- your unique story
+- everywhere where
+- 100% private
+
+
+
+Cons:
+- Answers can be similiar and not creative enough
+- May not answer well every time
+- Can give wrong tips and advises
+
+
+
+### Fine-Tuning Data
+
+For the data I use ChatGPT to generate my data. Therefore I need to prepare different commands to get the data. Also I have to program which picks different commands and calls ChatGPT over API.
+
+
+
+Example Commands:
+
+```
+Erstelle einen Dialog, in dem eine Person über ihre Ängste spricht und die andere Person versucht, sie mit einer beruhigenden Visualisierungstechnik zu trösten.
+The Questions and answer also can be very short, like in reality. Write only the Dialog no other message. Write the chat on english with really short answers and use following format:
+Person A: Hey 
+Person B: Hey, how are you? 
+Person A: ... 
+... 
+```
+
+``````
+Erstelle einen Dialog, in dem eine Person über ihre Ängste spricht und die andere Person versucht, sie mit einer beruhigenden Visualisierungstechnik zu trösten.
+The Questions and answer also can be very short, like in reality. Write only the Dialog no other message. Write the chat on english with really short answers and use following format:
+Person A: Hey 
+Person B: Hey, how are you? 
+Person A: ... 
+...
+``````
+
+
+
+This project shows, that there are good reasons to use ChatGPT for DataGeneration. In a half day you can generate your dream NLP dataset, but you have to pay money and have to setup up everything also different commands (you can use my work if it is helpful). In a nutshell:
+
+
+
+Pro:
+
+- Fast Datageneration
+- Specific NLP-Data
+- No license problems
+- Very cheap
+
+
+
+Con:
+
+- Maybe too generic
+
+
+
+**Total traindata creation time:**    
+
+- 0 Days    
+- 7 Hours 
+- 5 Minutes 
+- 52 Seconds
+
+
+
+=> Created 1630 Training-Dialogs.
+
+
+
+Results in 11.147 Input-Output Pairs!
+
+
+
+### Guide
+
+...
 
 
 
@@ -64,32 +161,25 @@ Pros:
 
 
 
-### Procedure:
-
-<!--
-
-First message from "User" -> will be given from the system:
-Tell me an interactive story to calm me down. It should be mindful with lots of details and meditative. Breathing exercises and visualizations should also be incorporated into the story.-->
-
-1. The system writes a welcome message and that the user should write down 1 word which defines the location of the adventureor "surprise me"/"you decide"/"random"/"".
-2. Then the user writes 1 word or "surprise me"/"you decide"/"random"/"". Then the first Input for the GPT-Model will be created and given to the model.
-3. The algorithm uses the 1 word to create a calm story or generates a own story, when no word is given (or the user wants the system to surprise him)
-4. Now the User should have an interactive story to calm down
 
 
+### Fine-Tuning
 
-### Fine-Tuning Data
+For the fine-tuning there are many things to respect. Here the most important facts. I used the Google Collab environment with the NVIDIA Tesla V100.
 
-For the data I use ChatGPT to generate my data. Therefore I need to prepare different commands to get the data. Also I have to program which picks different commands and calls ChatGPT over API.
+For the optimizer I orintated on models like GPT-3 and used the Adam-Optimizer. And I choose a small learnrate 1*e-4 to genralise well.
+
+To contain the context it was important to add the context of the conversation to the input prompt. It is questionable how good this works. Currently it's not sure how many messages are given by the given 1024 tokens. Also it's not clear, if the user and bot inputs markings are working like I wish (I added marks to it <start_user>...<end_user><start_bot>...). And finally it could happen, that messages are splitted somewhere and the context could propably change through this process.
+
+I expect that a low epoch-rate will be fine, because the data is partwise very similiar, so in one epoch the model saw the same data more than one times, I don't know how often exactly. 
+
+The Batch-Size is 4, which is very small, but my available GPU-RAM had no more capacity.
 
 
 
-Commands:
-
-- ...
 
 
 
-Different Scenarios:
 
-- ...
+
+
