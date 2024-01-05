@@ -1,5 +1,5 @@
 import sys
-sys.path.insert(0, './RIS_bot')
+sys.path.insert(0, './chat_bot')
 
 from bot import Calm_Bot
 import numpy as np
@@ -15,7 +15,7 @@ import numpy as np
 
 
 def run():
-    bot = Calm_Bot('./RIS_bot/weights/model_weights_V4_1.pth')
+    bot = Calm_Bot('chat_bot\weights\model_state_V4_6.pt')
 
     loop = 0
     while True:
@@ -27,7 +27,7 @@ def run():
             loop = 0
             bot.reload()
         else:
-            print("Bot:", bot.inference(user_input))
+            print("Bot:", bot.inference(user_input, True))
         loop += 1
 
 if __name__ == '__main__':

@@ -2,11 +2,13 @@ import os
 from datetime import datetime as dt
 
 import transformers
+from transformers import logging
 import torch
 
 class Calm_Bot():
 
-    def __init__(self, weight_path="./weights/model_weights_V3_6.pth"):
+    def __init__(self, weight_path="./weights/model_state_V4_6.pt"):
+        logging.set_verbosity_error()
         self.weight_path = weight_path
         self.max_length = 1024
         self.history = ""
@@ -23,15 +25,13 @@ class Calm_Bot():
             self.device = torch.device('cpu')
 
     def load_tokenizer(self):
-        self.tokenizer = transformers.AutoTokenizer.from_pretrained("gpt2")
-        self.tokenizer.add_special_tokens({  "pad_token": "<pad>"})
-        special_tokens = ['<start_user>', '<end_user>', '<start_bot>', '<end_bot>']
-        self.tokenizer.add_tokens(special_tokens)
+        self.tokenizer = transformers.AutoTokenizer.from_pretrained("gpt2", padding_side="left")
+        self.tokenizer.add_special_tokens({  "pad_token": "<pad>",
+                                             "sep_token": "<sep>"})
+        self.tokenizer.add_tokens(["<bot>"])
 
     def load_model(self):
-        #self.config = transformers.GPT2Config.from_pretrained("gpt2")
-        #self.config.max_length = self.max_length
-        self.model = transformers.GPT2LMHeadModel.from_pretrained("gpt2", max_length=self.max_length, do_sample=True)  #, config=self.config
+        self.model = transformers.GPT2LMHeadModel.from_pretrained("gpt2")  #, config=self.config
         self.model.resize_token_embeddings(len(self.tokenizer))
         self.model.eval()
         self.model = self.model.to(self.device)
@@ -39,24 +39,33 @@ class Calm_Bot():
 
     def inference(self, prompt:str, clear_output=True):
         user_input = prompt
-        self.prompt += f"<start_user>{prompt}<end_user>"
-        prompt = self.tokenizer(self.prompt, truncation=True, return_tensors="pt", max_length=self.max_length, padding="max_length")
+        if len(self.prompt) == 0:
+            self.prompt += f"{prompt}"
+        else:
+            self.prompt += f"<sep>{prompt}"
+        prompt = self.tokenizer(f"{self.prompt}<bot>",  truncation=True, 
+                                                        return_tensors="pt", 
+                                                        max_length=self.max_length, 
+                                                        padding="max_length")
         X = prompt["input_ids"].to(self.device)
         a = prompt["attention_mask"].to(self.device)
         with torch.no_grad():
-            output = self.model.generate(X, attention_mask=a, pad_token_id=self.tokenizer.eos_token_id)
+            output = self.model.generate(X, attention_mask=a, 
+                                            pad_token_id=self.tokenizer.pad_token_id,
+                                            do_sample=True, 
+                                            max_length=MAX_LENGTH)
         
         if clear_output:
-            output = tokenizer.decode(output[0], skip_special_tokens=True)
+            output = self.tokenizer.decode(output[0], skip_special_tokens=True)
         else:
-            output = tokenizer.decode(output[0], skip_special_tokens=False)
+            output = self.tokenizer.decode(output[0], skip_special_tokens=False)
 
             
 
         if type(output) == list and len(output) == 1:
             output = output[0]
 
-        self.prompt += f"<start_bot>{output}<end_bot>"
+        self.prompt += f"<sep>{output}"
         self.history += f"\n\nuser: {user_input}\n\nbot: {output}"
         return output
 
