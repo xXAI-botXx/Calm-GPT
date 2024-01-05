@@ -14,12 +14,13 @@ Content:
 - [Project Milestones](#project-milestones)
 - [Advantages and Disadvantages](#advantages-and-disadvantages)
 - [Fine-Tuning Data](#fine-tuning-data)
-- [Guide](#guide)
+- [Feature](#feature)
 - [Branches](#branches)
 - [Fine-Tuning](#fine-tuning)
+- [Second Fine-Tuning](#second-fine-tuning)
 - [Hardware](#hardware)
 - [Evaluation](#evaluation)
-- [Next Steps](#next-steps)
+- [Result](#result)
 
 
 
@@ -27,8 +28,9 @@ Content:
 
 - chatbot
 - english
-- GPT2
+- GPT2 finetuning
 - anxiety/stress/....
+- traindata ChatGPT3.5 generated
 
 
 
@@ -45,19 +47,6 @@ Since such training data is difficult to obtain, ChatGPT is used to generate the
 <br>
 
 The GPT3 model would actually be used for this, but this is associated with costs, so the decision was made to use the GPT2 model.<br>
-
-<br>
-
-### Definition Talk Down
-A "talk down" for anxiety usually refers to a technique used in cognitive behavioral therapy. It is a type of self-talk in which you make reassuring and rational statements to yourself in order to reduce the intensity of your anxiety. <br>
-A "talk down" for anxiety involves several key attributes: <br>
-1. self-soothing: You make soothing statements to yourself to reduce the intensity of the anxiety. This can include things like "I'm safe" or "This is only temporary".
-
-2. rational thoughts: You try to replace the irrational fears you have with rational and logical thoughts. For example, you could say to yourself: "There is no real reason for this fear".
-
-3. mindfulness: focus on the here and now instead of focusing on the future or the past. This can help to reduce anxiety by focusing on what is happening right now rather than what might happen.
-
-4. relaxation techniques: Techniques such as deep breathing or progressive muscle relaxation can help to alleviate the physical symptoms of anxiety.
 
 
 
@@ -178,7 +167,7 @@ def request_gpt3(message):
 
 
 
-Now it's important to build a loop, in which different commands are selected. Different commands leads to different answeres, so it's very important to have many commands. Then it is also important to save the answer from the ChatGPT model into a file. How exactly is up to you. I did it like [this (data_generation_V4.ipynb)](./data_generation_V4.ipynb). 
+Now it's important to build a loop, in which different commands are selected. Different commands leads to different answeres, so it's very important to have many commands. Then it is also important to save the answer from the ChatGPT model into a file. How exactly is up to you. I did it like [this (data_generation.ipynb)](./data_generation.ipynb). 
 
 As pseudocode it can look like:
 
@@ -191,9 +180,12 @@ while True:
 
 
 
-### Guide
+### Features
 
-...
+- problem talking
+- calm talking
+- visualization stories
+- chatting
 
 
 
@@ -250,7 +242,36 @@ I also decided to use a right padding. That should be better for our generative 
 
 This will be given as input and as the target/label. The model also gets a attention mask, so that it not learns the paddings.
 
-All training details can be found in [train_V4.ipynb](./train_V4.ipynb).
+All training details can be found in [train.ipynb](./train.ipynb).
+
+
+
+
+
+### Second Fine-Tuning
+
+To make the model more stable and add the chatbot more usability there was a second fine-tuning phase where the model is trained with new data (including the data from the first fine tuning).
+
+The new data contains dialogs about visualizations and about common conversations.
+
+
+
+The generation of the new data needed (without the original data): 
+
+- 0 Days
+- 15 Hours 
+- 46 Minutes
+- 32 Seconds
+
+*
+
+
+
+=> Created 3558* Training-Dialogs.
+
+
+
+Results in ? Input-Output Pairs! (+ the previous fine-tuning data)
 
 
 
@@ -262,7 +283,7 @@ Since I used the Openai-API as previsly described I just needed a CPU to run the
 
 
 
-**Fine-Tuning**
+**Fine-Tuning**  and **Second Fine-Tuning**
 
 - GPU: Tesla V100-SXM2-16GB
 - GPU-RAM: 16 GB
@@ -275,7 +296,7 @@ Since I used the Openai-API as previsly described I just needed a CPU to run the
 
 ### Evaluation
 
-
+*Have to be updated
 
 Conversation with bad mood:
 
@@ -364,11 +385,18 @@ Translation:
 
 **Result**
 
-In the important 
+Is the bot working as psychologist? As friend? As sorrow talking bot?
 
 
 
-### Next Steps
+### Result
+
+- Building a customize GPT2-based chatbot is a suitable and cheap method
+- Traindata generation with ChatGPT can be very succefull and have many advantages
+
+
+
+
 
 
 
