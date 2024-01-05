@@ -1,4 +1,0 @@
-Person A: Hey
-Person B: Hey, how are you feeling today?
-Person A: I've been feeling really overwhelmed lately.
-Person B: I'm here for you. What's been causing you to feel overwhelmed?

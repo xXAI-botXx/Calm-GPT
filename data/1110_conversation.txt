@@ -1,8 +1,0 @@
-Person A: Hey
-Person B: Hey, how are you?
-Person A: I'm feeling really down today.
-Person B: Oh no, what happened?
-Person A: I experienced some discrimination at work today.
-Person B: That's terrible, I'm so sorry. How did it make you feel?
-Person A: It made me feel really upset and frustrated.
-Person B: I can understand why you would feel that way. Is there anything I can do to help?

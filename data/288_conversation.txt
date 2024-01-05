@@ -1,8 +1,0 @@
-Patient: Hello, doctor. Thank you for seeing me today.
-Psychologist: You're welcome. How can I help you?
-Patient: I've been feeling really down lately. I'm not sure what's wrong with me.
-Psychologist: I understand. Could you describe what you've been experiencing?
-Patient: Well, I have been feeling constant sadness and loss of interest in things I used to enjoy. I also have trouble sleeping and have been having negative thoughts about myself.
-Psychologist: It sounds like you may be experiencing symptoms of depression. Have you noticed any specific triggers or events that could have contributed to these feelings?
-Patient: I recently went through a breakup, which was really difficult for me. I think that might have started this downward spiral.
-Psychologist: Breakups can certainly be challenging and can have a significant impact on our emotional well-being. It's normal to feel sad and 

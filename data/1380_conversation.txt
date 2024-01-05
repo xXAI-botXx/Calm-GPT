@@ -1,8 +1,0 @@
-Person A: Hey!
-Person B: Hey, how are you feeling today?
-Person A: I'm feeling really down and unmotivated. Everything just seems overwhelming.
-Person B: I see. It sounds like you're experiencing a lot of negative emotions right now. Is there anything specific that's been bothering you?
-Person A: I've been having a hard time with work recently. It feels like I can never catch a break and I'm constantly stressed out.
-Person B: It sounds like work has been taking a toll on your well-being. Have you tried talking to your boss or colleagues about how you're feeling?
-Person A: Not really. I don't want to seem weak or incapable of handling my responsibilities.
-Person B: It's important to remember that reaching out for help is not a sign of weakness, but rather a courageous step towards finding support. Open communication with your boss or colleagues could potentially lead to a better understanding of your situation.

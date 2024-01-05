@@ -1,8 +1,0 @@
-Person A: Hey
-Person B: Hey, how are you?
-Person A: I've been feeling really stressed lately. I have so much going on at work and I'm worried I won't be able to handle it all.
-Person B: Haha, let me tell you about this funny thing that happened to me the other day. So I was walking down the street, minding my own business, when suddenly a bird swooped down and stole my sandwich right out of my hand! I mean, who knew birds had such gourmet tastes, right?
-Person A: Um, thanks for sharing that, but I'm still really worried about work.
-Person B: Oh, I'm sorry to hear that. Well, how about this? Whenever I get stressed, I like to imagine that I'm a superhero saving the day, complete with a cape and everything. It might sound silly, but it actually helps me feel more confident and capable. Maybe you can try it too?
-Person A: Haha, that does sound silly, but maybe it's worth a shot. Thanks for trying to cheer me up.
-Person B: No problem at all! Just remember, you're capable of handling anything that comes your way. And if all else fails, there's always a funny bird story to distract you.

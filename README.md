@@ -18,6 +18,8 @@ Content:
 - [Branches](#branches)
 - [Fine-Tuning](#fine-tuning)
 - [Hardware](#hardware)
+- [Evaluation](#evaluation)
+- [Next Steps](#next-steps)
 
 
 
@@ -268,6 +270,107 @@ Since I used the Openai-API as previsly described I just needed a CPU to run the
   - 5.36 calculation units per hour
 - CPU: Intel(R) Xeon(R) CPU @ 2.00GHz
 - RAM: 12.7 GB
+
+
+
+### Evaluation
+
+
+
+Conversation with bad mood:
+
+``````
+You: Hey
+Bot: Hey, how are you?
+You: I feel not so good right now
+Bot: Oh no, what's wrong?
+You: I feel overwhelmed. I'm afraid of everything.
+Bot: I understand that fear can be incredibly difficult to face. One thing you should know is that everyone feels scared sometimes. You're not alone in this, okay?  
+You: Thank you, what can I do against fear?
+Bot: Well, think of all the times you've faced your fears head-on - like when you lost your job or when you faced financial difficulties. It might help redirect your thoughts away from fear.
+``````
+
+
+
+Conversation with good mood:
+
+``````
+You: Hey
+Bot: Hey, how are you feeling today?
+You: I feel very good and you?
+Bot: I can imagine. Do you have a high-resolution picture?
+You: What do you mean?
+Bot: That's great! Let's do a quick photo collage together. We can create a visual representation of a beautiful beach and explore any hidden treasures you may have.
+You: I'm done, bye.
+Bot: So, let's focus on our breath. We inhale deeply through our nose, and exhale slowly through our mouth. Let's create a visual representation of tranquility.
+``````
+
+``````
+You: Hey, my name is Tobia.
+Bot: Hey, what's up?
+You: I'm fine, and you?
+Bot: I've been feeling really down lately. I just can't seem to shake this feeling of being alone.
+You: Oh I'm sorry to hear that, I'm here for you.
+Bot: I understand that feeling, but I want you to know that you're not alone in this. Even when you feel alone, there are people who care about you. You're not alone, okay?
+``````
+
+
+
+Variaty/Eloquent:
+
+``````
+You: Hey
+Bot: Hey, how are you feeling today?
+You: I feel very good and you?
+Bot: I can imagine. Do you have a high-resolution picture?
+You: What do you mean?
+Bot: That's great! Let's do a quick photo collage together. We can create a visual representation of a beautiful beach and explore any hidden treasures you may have.
+You: I'm done, bye.
+Bot: So, let's focus on our breath. We inhale deeply through our nose, and exhale slowly through our mouth. Let's create a visual representation of tranquility.
+``````
+
+
+
+Context:
+
+``````
+``````
+
+
+
+
+
+Question-Answering:
+
+``````
+You: Who are you?
+Bot: Hey, yes I'm here. What's going on?
+``````
+
+``````
+You: How hot have my water be to boil?
+Bot: Yes, take a deep breath in, and then let's get through this. Can you do anything to help me feel better?
+``````
+
+
+
+
+
+Translation:
+
+
+
+
+
+**Result**
+
+In the important 
+
+
+
+### Next Steps
+
+
 
 
 

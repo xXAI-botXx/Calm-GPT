@@ -1,8 +1,0 @@
-Person A: Hey, I'm freaking out right now.
-Person B: Hey, what's going on? Take a deep breath and tell me what's happening.
-Person A: I just lost my wallet. I can't find it anywhere!
-Person B: Don't panic! Let's retrace your steps and see if we can find it.
-Person A: Okay, I remember I was at the coffee shop earlier. Maybe I left it there.
-Person B: That's a good place to start. Call them and ask if anyone turned it in.
-Person A: Okay, I'll do that. 
-...

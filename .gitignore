@@ -1,6 +1,7 @@
 /API_KEY.txt
 /model/*
-/data/
-/RIS_bot_data/*
+/data/*
+/data_stories/*
+/data_calm_bot/*
 /inspiration.ipynb
 /final_es_conv.csv
