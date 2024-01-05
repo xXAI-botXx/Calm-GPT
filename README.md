@@ -17,6 +17,7 @@ Content:
 - [Guide](#guide)
 - [Branches](#branches)
 - [Fine-Tuning](#fine-tuning)
+- [Hardware](#hardware)
 
 
 
@@ -148,6 +149,46 @@ Results in 11.147 Input-Output Pairs!
 
 
 
+To access the Openai API (now 05.01.2024), you can use following code:
+
+```python
+from openai import OpenAI
+
+with open("./API_KEY.txt", "r") as f:
+  API_KEY = f.read()
+client = OpenAI(api_key=API_KEY)
+
+def request_gpt3(message):
+    messages = [
+        {"role": "system", "content": "You are a helpful assistant."},
+        {"role": "user", "content": message}
+    ]
+
+    response = client.chat.completions.create(
+      model="gpt-3.5-turbo",
+      messages=messages
+    )
+
+    return response.choices[0].message.content
+```
+
+ You have to create an API-Code on the official website and have to pay some money for the usage. I saved my API-KEY in a text file and just loaded it, as shown in the code. Don't forget to add the API_KEY.txt to your gitignore file.
+
+
+
+Now it's important to build a loop, in which different commands are selected. Different commands leads to different answeres, so it's very important to have many commands. Then it is also important to save the answer from the ChatGPT model into a file. How exactly is up to you. I did it like [this (data_generation_V4.ipynb)](./data_generation_V4.ipynb). 
+
+As pseudocode it can look like:
+
+``````pseudocode
+while True:
+	command = choose_command()
+	answer = request_gpt3(command)
+	save_answer_in_file(answer)
+``````
+
+
+
 ### Guide
 
 ...
@@ -161,31 +202,15 @@ Results in 11.147 Input-Output Pairs!
 
 
 
-
-
 ### Fine-Tuning
 
-For the fine-tuning there are many things to respect. Here the most important facts. I used the Google Collab environment with the NVIDIA Tesla V100.
+For the fine-tuning there are many things to respect. Here the most important facts. I used the Google Collab environment with the NVIDIA Tesla V100. More hardware details are shown in the next chapter.
 
-For the optimizer I orintated on models like GPT-3 and used the Adam-Optimizer. And I choose a small learnrate 1*e-4 to genralise well.
-
-To contain the context it was important to add the context of the conversation to the input prompt. It is questionable how good this works. Currently it's not sure how many messages are given by the given 1024 tokens. Also it's not clear, if the user and bot inputs markings are working like I wish (I added marks to itlike: ...\<sep>... -> see below for a indeepth example). And finally it could happen, that messages are splitted somewhere and the context could propably change through this process. Also the missing of start and/or end token can hinder the model, but I expect this is not a problem, since the provided informations of these tokens are not so important (from my perspective). 
-
-I expect that a low epoch-rate will be fine, because the data is partwise very similiar, so in one epoch the model saw the same data more than one times, I don't know how often exactly. 
+For the optimizer I orintated on models like GPT-3 and used the Adam-Optimizer. I choose a small learnrate 1*e-4 to generalise well. I expect that a low epoch-rate will be fine, because the data is partwise very similiar, so in one epoch the model saw the same data more than one times, I don't know how often exactly. 
 
 The Batch-Size is 4, which is very small, but my available GPU-RAM had no more capacity.
 
-In a [Kaggle tutorial](https://www.kaggle.com/code/pinooxd/gpt2-chatbot/notebook#PS) the author created train data like following:
-
-> no puedo.<|endoftext|>¡Espera!<|endoftext|>¡Espera!<|endoftext|>No me acompañes.<|endoftext|>¡Con cuidado, te puedes golpear la pierna!<|endoftext|>En el frente será más difícil.<|endoftext|>No te dejarán ir al frente.<|endoftext|>Sólo uno de nosotros irá al ejército, tu o yo.<|endoftext|>Tu te quedarás, por tus conocimientos y experiencias...<|endoftext|>Pero, tu tienes talento.<|endoftext|>Cuida los planos.<|endoftext|>Mi esposa me cosió...<|endoftext|>
-
-Translated:
-
-> Ich kann nicht.<|endoftext|>Warte!<|endoftext|>Warte!<|endoftext|>Komm nicht mit.<|endoftext|>Seien Sie vorsichtig, Sie könnten sich das Bein stoßen!<|endoftext|> An der Front wird es schwieriger.<|endoftext|>Sie werden dich nicht an die Front gehen lassen.<|endoftext|>Nur einer von uns wird zur Armee gehen, du oder ich.<|endoftext|>Du wirst bleiben , aufgrund deines Wissens und deiner Erfahrungen.. .<|endoftext|>Aber du hast Talent.<|endoftext|>Kümmere dich um die Pläne.<|endoftext|>Meine Frau hat mich genäht...<|endoftext|>
-
-
-
-Means: We only need 1 special token \<end>  and the marking which one is saying seems to be not relevant. Also interesting is, that the label is equal the input.
+To contain the context it was important to add the context of the conversation to the input prompt. It is questionable how good this works. Currently it's not sure how many messages are given by the given 1024 tokens. Also it's not clear, if the user and bot inputs markings are working like I wish (I added marks to itlike: ...\<sep>... -> see below for a indeepth example). And finally it could happen, that messages are splitted somewhere and the context could propably change through this process. Also the missing of start and/or end token can hinder the model, but I expect this is not a problem, since the provided informations of these tokens are not so important (from my perspective). 
 
 
 
@@ -213,7 +238,36 @@ Our Input with context will looks like:
 
 I decided to only use the sep, pad and a special bot token. The sep-token will help the model to understand the context, the pad token for the padding (because the input need the same length). There is also a special bot token that allows the model to know which part is his part and can learn it.
 
-The start token is not used, because it will be cutted away when the input is too big and that could hinder the model from good generalization. And without start token I decided also too miss the end token. In my understanding this is not important. Only to ignore the pad-tokens it could be helpful, but it depends on the exact implementation from the transformers module.
+The start token is not used, because it will be cutted away when the input is too big and that could hinder the model from good generalization. But I added the end token, because I think it is helpful for the model to know where is the end of his answer and could help him in the generalization process.
+
+I also decided to use a right padding. That should be better for our generative model, I read that in an article and it also makes sense. A real input looks like:
+
+> Hey, I wanted to talk to you about something.<sep>Hey, what's on your mind?<sep>I've been feeling really anxious lately.<sep>I'm sorry to hear that. Would you like to talk about it?<sep>I don't know, it just feels overwhelming.<sep>I understand. Sometimes facing our fears head-on can help. Have you ever tried any small tasks to help alleviate your anxiety?<sep>No, I haven't. What kind of tasks do you mean?<sep>Well, for example, you could try taking up a creative hobby like drawing or painting. It can be a great way to express yourself and take your mind off things.<sep>That sounds interesting. I've always wanted to learn how to draw.<sep>Great! You could start by watching some beginner tutorials online or even taking a short class. It doesn't have to be perfect, just have fun with it and let your creativity flow.<sep>I never thought of that. It could be a nice distraction from my anxiety.<bot>Exactly! Another idea is to try journaling. Writing down your thoughts and feelings can provide a sense of release and clarity.<end><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+
+
+
+This will be given as input and as the target/label. The model also gets a attention mask, so that it not learns the paddings.
+
+All training details can be found in [train_V4.ipynb](./train_V4.ipynb).
+
+
+
+### Hardware
+
+**Traindata Generation**
+
+Since I used the Openai-API as previsly described I just needed a CPU to run the loop of data generation.
+
+
+
+**Fine-Tuning**
+
+- GPU: Tesla V100-SXM2-16GB
+- GPU-RAM: 16 GB
+  - Usage with Batch-Size 4: 14.3 GB
+  - 5.36 calculation units per hour
+- CPU: Intel(R) Xeon(R) CPU @ 2.00GHz
+- RAM: 12.7 GB
 
 
 
