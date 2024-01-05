@@ -246,6 +246,10 @@ All training details can be found in [train.ipynb](./train.ipynb).
 
 
 
+Loss:
+
+<img src="loss_V_5_smoothed.png"></img>
+
 
 
 ### Second Fine-Tuning
@@ -259,19 +263,17 @@ The new data contains dialogs about visualizations and about common conversation
 The generation of the new data needed (without the original data): 
 
 - 0 Days
-- 15 Hours 
-- 46 Minutes
-- 32 Seconds
-
-*
+- 19 Hours 
+- 12 Minutes
+- 1 Seconds
 
 
 
-=> Created 3558* Training-Dialogs.
+=> Created 4353 Training-Dialogs.
 
 
 
-Results in ? Input-Output Pairs! (+ the previous fine-tuning data)
+Results in 47488 (36341 new) Input-Output Pairs! (included the previous fine-tuning data)
 
 
 
