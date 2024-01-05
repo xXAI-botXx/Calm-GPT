@@ -15,7 +15,7 @@ import numpy as np
 
 
 def run():
-    bot = Calm_Bot('chat_bot\weights\model_state_V4_6.pt')
+    bot = Calm_Bot('chat_bot\weights\model_state_V5_4.pt')
 
     loop = 0
     while True:
@@ -27,8 +27,9 @@ def run():
             loop = 0
             bot.reload()
         else:
-            print("Bot:", bot.inference(user_input, True))
+            print("Bot:", bot.inference(user_input))
         loop += 1
 
 if __name__ == '__main__':
+    #print(__version__)
     run()
