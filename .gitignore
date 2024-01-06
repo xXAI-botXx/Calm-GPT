@@ -1,1 +1,4 @@
 /env/*
+/res/*
+/chat_bot/weights/*
+/chat_bot/res/*

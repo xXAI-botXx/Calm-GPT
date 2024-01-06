@@ -1,5 +1,22 @@
 #:import get_color_from_hex kivy.utils.get_color_from_hex
 
+<Intro_Screen>:
+    MDFloatLayout:
+        FitImage:
+            source: './logo.jpeg'
+            pos_hint: {'center_x': 0.5, 'center_y': 0.5}
+
+        MDFillRoundFlatIconButton:
+            icon: "pencil"
+            text: "Start"
+            size_hint_x: 0.15
+            pos_hint: {'center_x': 0.5, 'center_y': 0.72}
+            theme_text_color: "Custom"
+            text_color: 0, 0, 0, 1
+            md_bg_color: "#f5c242"
+            md_bg_color: 0.92, 0.83, 0.78, 0.5
+            on_release: root.release_action()
+
 <User_Input>:
     size_hint_y: None
     height: dp(60)
@@ -12,7 +29,7 @@
         MDLabel:
             id: user_input
             text: root.text
-            color: 1,1,1,1
+            color: 0, 0, 0, 1
             font_size: root.font_size
             valigh: "middle"
             halign: "center"
@@ -24,12 +41,12 @@
     adaptive_height: True
     pos_hint: {'center_x': 0.2}
     MDScreen:
-        md_bg_color: get_color_from_hex("#474747")
+        md_bg_color: "f59e42" 
         radius: dp(25)
         MDLabel:
             id: bot_response
             text: root.text
-            color: 1,1,1,1
+            color: 0, 0, 0, 1
             font_size: root.font_size
             valigh: "middle"
             halign: "center"
@@ -41,18 +58,20 @@
 
         MDTopAppBar:
             title: "GPT2-ChatApp"
-            left_action_items: [["robot"]]
+            orientation: "horizontal"
+            
+            MDIconButton:
+                id: music_button
+                icon: "speaker-pause"
+                on_release: root.stop_music()
+
+            MDIconButton:
+                icon: "skip-next-circle"
+                on_release: root.next_music()
 
         MDBoxLayout:
             size_hint_y: None
             height: dp(40)
-
-            MDLabel:
-                text: "Hey, I'm here for you."
-                color: 0, 0, 0, 0.5
-                font_style: "Caption"
-                valigh: "middle"
-                halign: "center"
 
         ScrollView:
             id: chat_scroll_view
@@ -79,6 +98,7 @@
                 max_text_length: 1024
                 helper_text: "Massage"
                 size_hint_x: 0.85
+                color: 0, 0, 0, 1
                 
             MDFillRoundFlatIconButton:
                 icon: "send"

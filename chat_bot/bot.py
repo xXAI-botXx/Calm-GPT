@@ -68,7 +68,7 @@ class Calm_Bot():
             output = self.model.generate(X, attention_mask=a, 
                                             pad_token_id=self.tokenizer.pad_token_id,
                                             do_sample=True, 
-                                            max_length=self.max_length)
+                                            max_length=self.max_length)  #*2
         
         if print_output:
             _ = self.tokenizer.decode(output[0], skip_special_tokens=False)
@@ -109,6 +109,9 @@ class Calm_Bot():
 
                 if "<pad>" in output:
                     output = output.split("<pad>")[0]
+
+                if "<sep>" in output:
+                    output = output.replace("<sep>", ". ")
     
 
         self.prompt += f"<sep>{output}"

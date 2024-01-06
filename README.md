@@ -1,20 +1,24 @@
 <h1 style="text-align:center">Kivy Deployment</h1>
 
+
+
 This project using Kivy to create an mobile implementation of the nice-bot.
 
 ### Features:
 - History
-- Sound
-- X Focus on current message
-- load screen
+- [x] Sound
+- [x] Focus on current message
+- [x] load screen
 - better colors orange and blue (like in picture)
-- X Bot parallel (no new message during loading)
+- [x] Bot parallel (no new message during loading)
 - enter for sending a message
 - make the model offline available (also the tokenizer)
-- min width and height
-- add windows icon
+- [x] min width and height
+- [x] add windows icon and add name
 - add dynamic background (color changing?)
 - transfer to android (playstore version)
+- [x] Increase Output-Size
+- Upgrade to V6 model
 
 
 ### Ressources:
@@ -23,5 +27,4 @@ This project using Kivy to create an mobile implementation of the nice-bot.
 - https://www.youtube.com/watch?v=_g4BiBcYdZQ
 - https://www.youtube.com/watch?v=Miydkti_QVE
 - https://www.youtube.com/watch?v=iM3kjbbKHQU (tkinter)
-
 

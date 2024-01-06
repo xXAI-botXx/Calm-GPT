@@ -392,5 +392,45 @@ Copyright 2018 The Hugging Face team
    See the License for the specific language governing permissions and
    limitations under the License.
 ---------------------------------------------------------
+License for the music:
+
+"intro.mp3"
+- Music by Roman Kostiuk from Pixabay
+    -> https://pixabay.com/music/acoustic-group-a-small-miracle-132333/
+
+"bg_music_1.mp3"
+- Music by Ilya Myagkov from Pixabay
+    -> https://pixabay.com/music/ambient-tranquil-horizons-182759/
+
+"bg_music_2.mp3"
+- Music by Roman Senyk from Pixabay
+    -> https://pixabay.com/music/beats-coding-chillstep-153836/
+
+"bg_music_3.mp3"
+- Music by Zakhar Valaha from Pixabay
+    -> https://pixabay.com/music/solo-piano-piano-moment-9835/
+
+"bg_music_4.mp3"
+- Music by Yrii Semchyshyn from Pixabay
+    -> https://pixabay.com/music/beautiful-plays-acoustic-motivation-11290/
+
+"bg_music_5.mp3"
+- Music by Oleksii Kaplunskyi from Pixabay
+    -> https://pixabay.com/music/solo-guitar-in-the-forest-ambient-acoustic-guitar-instrumental-background-music-for-videos-5718/
+
+"bg_music_6.mp3"
+- Music by Sergei Chetvertnykh from Pixabay
+    -> https://pixabay.com/music/world-himalayas-13503/
+
+"send.mp3"
+- Sound Effect by Creating Professional Background Music and Effects from Pixabay
+    -> https://pixabay.com/de/sound-effects/notification-5-140376/
+
+"receive.mp3"
+- Sound Effect by Creating Professional Background Music and Effects from Pixabay
+    -> https://pixabay.com/de/sound-effects/interface-124464/
+
+---------------------------------------------------------
+
 
 
