@@ -8,12 +8,14 @@ import torch
 
 class Calm_Bot():
 
-    def __init__(self, weight_path="./weights/model_state_V4_6.pt", print_info=True):
+    def __init__(self, dir_path=".", print_info=True, offline=True, model_version="V6_8"):
         logging.set_verbosity_error()
         warnings.filterwarnings('ignore')
 
         self.print_info = print_info
-        self.weight_path = weight_path
+        self.model_version = model_version
+        self.offline = offline
+        self.dir_path = dir_path
         self.max_length = 1024
         self.history = ""
         self.prompt = ""
@@ -35,20 +37,26 @@ class Calm_Bot():
             self.device = torch.device('cpu')
 
     def load_tokenizer(self):
-        self.tokenizer = transformers.AutoTokenizer.from_pretrained("gpt2", padding_side="right")
+        if self.offline:
+            self.tokenizer = transformers.AutoTokenizer.from_pretrained(f"{self.dir_path}/tokenizer", padding_side="right")
+        else:
+            self.tokenizer = transformers.AutoTokenizer.from_pretrained("gpt2", padding_side="right")
         self.tokenizer.add_special_tokens({  "pad_token": "<pad>",
                                              "eos_token": "<end>",
                                              "sep_token": "<sep>"})
         self.tokenizer.add_tokens(["<bot>"])
 
     def load_model(self):
-        self.model = transformers.GPT2LMHeadModel.from_pretrained("gpt2")  #, config=self.config
+        if self.offline:
+            self.model = transformers.GPT2LMHeadModel.from_pretrained(f"{self.dir_path}/model")
+        else:
+            self.model = transformers.GPT2LMHeadModel.from_pretrained("gpt2")
         self.model.resize_token_embeddings(len(self.tokenizer))
         self.model.eval()
         self.model = self.model.to(self.device)
         if self.print_info:
-            print(f"loading weights from '{self.weight_path}'")
-        self.model.load_state_dict(torch.load(self.weight_path, map_location=self.device))
+            print(f"loading weights from '{self.dir_path}/weights/model_state_{self.model_version}.pt'")
+        self.model.load_state_dict(torch.load(f"{self.dir_path}/weights/model_state_{self.model_version}.pt", map_location=self.device))
 
     def inference(self, prompt:str, clear_output=True, print_input=False, print_output=False):
         user_input = prompt
@@ -191,6 +199,21 @@ class Calm_Bot():
             self.history += f"\n\nuser: {message}"
         else:
             self.history += f"\n\nbot: {message}"
+
+    def save_model(self, empty_top_dir_path):
+        # model
+        model_path = f"{empty_top_dir_path}/model"
+        os.makedirs(model_path)
+        bot.model.save_pretrained(model_path)
+        # tokenizer
+        tokenizer_path = f"{empty_top_dir_path}/tokenizer"
+        os.makedirs(tokenizer_path)
+        bot.tokenizer.save_pretrained(tokenizer_path)
+        # weights
+        weights_path = f"{empty_top_dir_path}/weights"
+        os.makedirs(weights_path)
+        torch.save(model, f"{weights_path}/model_state_{self.model_version}.pt")
+        return model_path, tokenizer_path, weights_path 
 
     def reload(self):
         self.history = ""

@@ -1,4 +1,6 @@
 /env/*
 /res/*
 /chat_bot/weights/*
-/chat_bot/res/*
+/chat_bot/model/*
+/chat_bot/tokenizer/*
+/chat_bot/histories/*

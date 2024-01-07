@@ -274,10 +274,11 @@ class Chat(Screen):
 
 class Chat_App(MDApp):
 
-    def __init__(self, mute, model_path, **kwargs):
+    def __init__(self, mute, model_version, dir_path, **kwargs):
         super(Chat_App, self).__init__(**kwargs)
         self.mute = mute
-        self.model_path = model_path
+        self.model_version = model_version
+        self.dir_path = dir_path
 
     def build(self):
         self.title = 'Calm Chat'
@@ -322,7 +323,7 @@ class Chat_App(MDApp):
 
     def load_bot(self):
         self.bot_loaded = False
-        self.bot = Calm_Bot(self.model_path)
+        self.bot = Calm_Bot(model_version=self.model_version, dir_path=self.dir_path)
         print("model loaded")
         self.bot_loaded = True
 
@@ -373,6 +374,6 @@ class Chat_App(MDApp):
             self.sound.play()
 
 if __name__ == "__main__":
-    Chat_App(mute=False, model_path="./chat_bot/weights/model_state_V6_8.pt").run()
+    Chat_App(mute=False, model_version="V6_8", dir_path="./chat_bot").run()
 
 
