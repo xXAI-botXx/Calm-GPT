@@ -115,25 +115,82 @@ class Calm_Bot():
     
 
         self.prompt += f"<sep>{output}"
-        self.history += f"\n\nuser: {user_input}\n\nbot: {output}"
         return output
 
     def set_topic(self, topic):
         self.topic = topic
 
-    def save_history(self, name=None):
-        if self.history != "":
-            if type(name) != str:
-                name = f"RIS_experience_{dt.now().strftime('%Y-%m-%d %H')}_{self.topic}"
-            counter = 2
-            while name in os.listdir("./histories"):
-                name = f"RIS_experience_{dt.now().strftime('%Y-%m-%d %H')}_{self.topic}_{counter}"
-            
-            with open(f"./histories/{name}", "w") as f:
-                f.write(self.history)
+    def save_history(self, path="./histories", name=None, override=False):
+        if type(name) != str:
+            name = f"chat {dt.now().strftime('%Y-%m-%d %H_%M')}.txt"
+        if not name.endswith(".txt"):
+            name += ".txt"
+        counter = 2
+        if override == False:
+            while name in os.listdir(path):
+                name = f"{name} {counter}.txt"
+        
+        with open(f"{path}/{name}", "w") as f:
+            f.write(self.history)
+        return name
 
-    def get_history(self, name=None):
-        return self.history
+    def load_histories(self, path="./histories"):
+        histories = []
+        for i in os.listdir(path):
+            if len(i) > 0:
+                if i.endswith(".txt"):
+                    histories += [".".join(i.split(".")[:-1])]
+                else:
+                    histories += [i]
+        return histories
+
+    def load_history(self, path, name):
+        self.reload()
+        chat = self.get_history(path, name)
+        self.prompt = ""
+        for i, text in enumerate(chat):
+            if i == 0:
+                self.prompt += f"{text}"
+            else:
+                self.prompt += f"<sep>{text}"
+
+    def get_history(self, path, name):
+        if not name.endswith("txt"):
+            name += ".txt"
+        try:
+            with open(f"{path}/{name}", "r") as f:
+                history = f.read()
+        except Exception:
+            name = ".".join(name.split(".")[:-1])
+            with open(f"{path}/{name}", "r") as f:
+                history = f.read()
+
+        history = history.split("\n\n")
+        return_history = []
+        for chat_idx in range(0, len(history)):
+            if len(history[chat_idx]) > 0:
+                if ":" in history[chat_idx]:
+                    return_history += [":".join(history[chat_idx].split(":")[1:])]
+                else:
+                    return_history += [history[chat_idx]]
+        return return_history
+
+    def del_history(self, path, name):
+        if not name.endswith("txt"):
+            name += ".txt"
+
+        try:
+            os.remove(f"{path}/{name}")
+        except FileNotFoundError:
+            print(f"The file {file_path} are not found.")
+        except Exception as e:
+            print(f"Error during deleting the file: {e}")
+
+    def add_to_history(self, is_user, message):
+        if is_user:
+            self.history += f"\n\nuser: {message}"
+        else:
+            self.history += f"\n\nbot: {message}"
 
     def reload(self):
         self.history = ""
