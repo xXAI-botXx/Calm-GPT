@@ -1,3 +1,6 @@
 /API_KEY.txt
 /model/*
 /chat_bot/weights/*
+/chat_bot/model/*
+/chat_bot/tokenizer/*
+/chat_bot/histories/*

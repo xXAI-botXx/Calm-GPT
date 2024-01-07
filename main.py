@@ -15,7 +15,7 @@ import numpy as np
 
 
 def run():
-    bot = Calm_Bot('chat_bot\weights\model_state_V5_4.pt')
+    bot = Calm_Bot(dir_path='./chat_bot', model_version="V6_8")
 
     loop = 0
     while True:
