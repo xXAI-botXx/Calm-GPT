@@ -5,11 +5,11 @@
 This project using Kivy to create an mobile implementation of the nice-bot.
 
 ### Features:
-- History
+- [x] History
 - [x] Sound
 - [x] Focus on current message
 - [x] load screen
-- better colors orange and blue (like in picture)
+- [x] better colors orange and blue (like in picture)
 - [x] Bot parallel (no new message during loading)
 - enter for sending a message
 - make the model offline available (also the tokenizer)
@@ -18,7 +18,7 @@ This project using Kivy to create an mobile implementation of the nice-bot.
 - add dynamic background (color changing?)
 - transfer to android (playstore version)
 - [x] Increase Output-Size
-- Upgrade to V6 model
+- [x] Upgrade to V6 model
 
 
 ### Ressources:
