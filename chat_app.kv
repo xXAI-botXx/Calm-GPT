@@ -68,25 +68,15 @@
                 icon: "skip-next-circle"
                 on_release: root.next_music()
 
-        FloatLayout:
+        BoxLayout:
             orientation: 'horizontal'
-
-            ScrollView:
-                id: chat_scroll_view
-                size_hint_x: 1.0
-
-                MDBoxLayout:
-                    id: chat_area
-                    adaptive_height: True
-                    orientation: "vertical"
-                    spacing: dp(12)
-                    padding: [dp(50), dp(20), dp(20), dp(20)]
+            padding: [dp(10), dp(20), dp(10), dp(40)]
 
             MDBoxLayout:
                 size_hint_x: None
                 width: dp(56)
                 orientation: 'vertical'
-                pos_hint: {'center_y': 1.0}
+                pos_hint: {'center_y': 0.99}
                 spacing: dp(10)
                 padding: [dp(10), dp(10), dp(10), dp(0)]
 
@@ -102,6 +92,17 @@
                 MDFloatingActionButton:
                     icon: "plus-circle"
                     on_release: root.new_chat()
+
+            ScrollView:
+                id: chat_scroll_view
+                size_hint_x: 1.0
+
+                MDBoxLayout:
+                    id: chat_area
+                    adaptive_height: True
+                    orientation: "vertical"
+                    spacing: dp(12)
+                    padding: [dp(50), dp(20), dp(20), dp(20)]
 
         MDBoxLayout:
             size_hint_y: None
