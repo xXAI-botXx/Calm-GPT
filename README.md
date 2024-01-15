@@ -246,6 +246,15 @@ All training details can be found in [train.ipynb](./train.ipynb).
 
 
 
+Duration: 
+
+- 0 Days
+- 1 Hours 
+- 55 Minutes
+- 43 Seconds
+
+
+
 Loss:
 
 <img src="loss_V_5_smoothed.png"></img>
@@ -257,8 +266,6 @@ Loss:
 To make the model more stable and add the chatbot more usability there was a second fine-tuning phase where the model is trained with new data (including the data from the first fine tuning).
 
 The new data contains dialogs about visualizations and about common conversations.
-
-
 
 The generation of the new data needed (without the original data): 
 
@@ -273,7 +280,28 @@ The generation of the new data needed (without the original data):
 
 
 
-Results in 47488 (36341 new) Input-Output Pairs! (included the previous fine-tuning data)
+Results in 47488 (36341 new) Input-Output Pairs! (included the previous fine-tuning data).
+
+
+
+This time I decided to increase to 8 epochs because of the higher complexity of the data.
+
+All training details can be found in [train_refinetuning.ipynb](./train_refinetuning.ipynb).
+
+
+
+Duration: 
+
+- 0 Days
+- 10 Hours 
+- 39 Minutes
+- 29 Seconds
+
+
+
+Loss:
+
+<img src="model_V6_loss_smoothed.png"></img>
 
 
 
