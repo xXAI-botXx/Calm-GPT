@@ -323,7 +323,7 @@ class Chat_App(MDApp):
 
     def load_bot(self):
         self.bot_loaded = False
-        self.bot = Calm_Bot(model_version=self.model_version, dir_path=self.dir_path)
+        self.bot = Calm_Bot(model_version=self.model_version, dir_path=self.dir_path, offline=False)
         print("model loaded")
         self.bot_loaded = True
 
