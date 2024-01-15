@@ -333,6 +333,7 @@ class Chat_App(MDApp):
             self.sound.stop()
 
         while self.bot_loaded == False:
+            toast("Loading GPT-2 model...please wait a moment...", duration=0.5)
             time.sleep(0.5)
         self.chat = Chat(self, self.bot, name="chat")
         self.screen_manager.add_widget(self.chat)

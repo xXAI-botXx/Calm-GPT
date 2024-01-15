@@ -16,6 +16,7 @@ class Calm_Bot():
         self.model_version = model_version
         self.offline = offline
         self.dir_path = dir_path
+        self.create_dir_paths()
         self.max_length = 1024
         self.history = ""
         self.prompt = ""
@@ -29,6 +30,12 @@ class Calm_Bot():
         if self.print_info:
             print("loading GPT-2 model...")
         self.load_model()
+
+    def create_dir_paths(self):
+        try:
+            os.makedirs(f"{self.dir_path}/histories")
+        except Exception:
+            pass
 
     def set_device(self):
         if torch.cuda.is_available():
