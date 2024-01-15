@@ -331,14 +331,7 @@ Since I used the Openai-API as previsly described I just needed a CPU to run the
 Conversation with bad mood:
 
 ``````
-You: Hey
-Bot: Hey, how are you?
-You: I feel not so good right now
-Bot: Oh no, what's wrong?
-You: I feel overwhelmed. I'm afraid of everything.
-Bot: I understand that fear can be incredibly difficult to face. One thing you should know is that everyone feels scared sometimes. You're not alone in this, okay?  
-You: Thank you, what can I do against fear?
-Bot: Well, think of all the times you've faced your fears head-on - like when you lost your job or when you faced financial difficulties. It might help redirect your thoughts away from fear.
+...
 ``````
 
 
@@ -346,23 +339,18 @@ Bot: Well, think of all the times you've faced your fears head-on - like when yo
 Conversation with good mood:
 
 ``````
-You: Hey
-Bot: Hey, how are you feeling today?
-You: I feel very good and you?
-Bot: I can imagine. Do you have a high-resolution picture?
-You: What do you mean?
-Bot: That's great! Let's do a quick photo collage together. We can create a visual representation of a beautiful beach and explore any hidden treasures you may have.
-You: I'm done, bye.
-Bot: So, let's focus on our breath. We inhale deeply through our nose, and exhale slowly through our mouth. Let's create a visual representation of tranquility.
+User: Hey, how are you?
+Bot: I'm doing okay, thanks for asking. How about you?
+User: I feel great
+Bot: Hey! You won't believe what happened to me today.
+User: What? Tell me
+Bot: I won a free trip to Hawaii from my friend.
+User: Wow that is amzing!
+Bot: That sounds amazing! How did you win it?
 ``````
 
 ``````
-You: Hey, my name is Tobia.
-Bot: Hey, what's up?
-You: I'm fine, and you?
-Bot: I've been feeling really down lately. I just can't seem to shake this feeling of being alone.
-You: Oh I'm sorry to hear that, I'm here for you.
-Bot: I understand that feeling, but I want you to know that you're not alone in this. Even when you feel alone, there are people who care about you. You're not alone, okay?
+...
 ``````
 
 
@@ -370,14 +358,7 @@ Bot: I understand that feeling, but I want you to know that you're not alone in 
 Variaty/Eloquent:
 
 ``````
-You: Hey
-Bot: Hey, how are you feeling today?
-You: I feel very good and you?
-Bot: I can imagine. Do you have a high-resolution picture?
-You: What do you mean?
-Bot: That's great! Let's do a quick photo collage together. We can create a visual representation of a beautiful beach and explore any hidden treasures you may have.
-You: I'm done, bye.
-Bot: So, let's focus on our breath. We inhale deeply through our nose, and exhale slowly through our mouth. Let's create a visual representation of tranquility.
+...
 ``````
 
 
@@ -385,31 +366,44 @@ Bot: So, let's focus on our breath. We inhale deeply through our nose, and exhal
 Context:
 
 ``````
+...
 ``````
-
-
 
 
 
 Question-Answering:
 
 ``````
-You: Who are you?
-Bot: Hey, yes I'm here. What's going on?
+User: What is your name?
+Bot: Hey, I'm John. Nice to meet you.
 ``````
 
 ``````
-You: How hot have my water be to boil?
-Bot: Yes, take a deep breath in, and then let's get through this. Can you do anything to help me feel better?
+User: How hot have my water be to boil?
+Bot: Hey, I'm going to give it a try. Let me know how it goes!
 ``````
 
+
+
+Calculation:
+
+``````
+User: What is 1+1?
+Bot: Yeah, I guess I'm right. Guess what?
+``````
 
 
 
 
 Translation:
 
+...
 
+
+
+Story creation:
+
+...
 
 
 
