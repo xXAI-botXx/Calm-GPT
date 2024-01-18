@@ -294,8 +294,8 @@ class Chat_App(MDApp):
 
         threading.Thread(target=self.load_bot, daemon=True).start()
 
-        Window.minimum_width = 200
-        Window.minimum_height = 400
+        Window.minimum_width = 400
+        Window.minimum_height = 500
 
         self.load_music()
         self.load_intro()
@@ -376,6 +376,6 @@ class Chat_App(MDApp):
             self.sound.play()
 
 if __name__ == "__main__":
-    Chat_App(mute=False, model_version="V6_8", dir_path="./chat_bot", offline=True).run()
+    Chat_App(mute=True, model_version="V6_8", dir_path="./chat_bot", offline=True).run()
 
 
