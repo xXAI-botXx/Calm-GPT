@@ -593,6 +593,7 @@ To conclude the bot is very bounded on the training data and shows not much skil
 
 ### Result
 
+Succesfull finished tasks:
 - Building a customize GPT2-based chatbot is a suitable and cheap method
   - The Inference need a GPU to be fast enough
 
